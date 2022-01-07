@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EZIUENOR
 
 [Document2]
-DocumentPath=Input Power Protection.SchDoc
+DocumentPath=Input Connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQRHGPJH
 
 [Document8]
-DocumentPath=External Connections.SchDoc
+DocumentPath=Output Connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
