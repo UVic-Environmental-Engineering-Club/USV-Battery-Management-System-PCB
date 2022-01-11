@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=VCC Pin=R8-1
+Removed Pin From Net: NetName=VCC Pin=R9-2
+Removed Member From Class: ClassName=Current Sensors Member=IC1
+Removed Member From Class: ClassName=Current Sensors Member=R7
+Removed Member From Class: ClassName=Current Sensors Member=R8
+Removed Member From Class: ClassName=Current Sensors Member=R9
+Removed Member From Class: ClassName=Current Sensors Member=R10
+Removed Member From Class: ClassName=Current Sensors Member=R11
+Added Component: Designator=C?(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "Bypass, Decoupling"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0603C104K5RAC7411.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/kemet/C0603C104K5RAC7411/399-7374-2-ND/3317013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2020-09-02 1:03:36 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "15000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-7374-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(STACKPOLE CSR2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.koaspeer.com/catimages/Products/TLRH/TLRH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/koa-speer-electronics-inc/TLRH3APTTE10L0F/2019-TLRH3APTTE10L0FCT-ND/9847524"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Element"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Current Sense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2020-09-02 1:18:05 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-65°C ~ 170°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLRH3APTTE10L0F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TLRH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.248" L x 0.126" W (6.30mm x 3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-TLRH3APTTE10L0FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±75ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=25V Pin=C?-2
+Added Pin To Net: NetName=25V Pin=R?-1
+Added Net: Name=25V
+Added Net: Name=Net*?_9
+Added Net: Name=Net*?_10
+Added Net: Name=Net*?_11
+Added Net: Name=Net*?_12
+Added Net: Name=Net*?_13
+Added Net: Name=Net*?_14
+Added Net: Name=NetLMP8480MME-T/NOPB_5
+Added Pin To Net: NetName=NetLMP8480MME-T/NOPB_8 Pin=R?-2
+Added Net: Name=NetLMP8480MME-T/NOPB_8
+Added Net: Name=RXD
+Added Net: Name=TXD
+Added Net: Name=UD+
+Added Net: Name=UD-
+Added Net: Name=V3
+Added Net: Name=XI
+Added Net: Name=XO
+Added Member To Class: ClassName=Current Sensors Member=Component C? 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C? 1uF 50V 0603 SMD, Ceramic
+Added Member To Class: ClassName=Microcontroller Member=Component C? 0.1uF 16V 0603 SMD, Ceramic
+Added Member To Class: ClassName=Microcontroller Member=Component C? 0.1uF 16V 0603 SMD, Ceramic
+Added Member To Class: ClassName=Current Sensors Member=Component R? 10 mOhms
