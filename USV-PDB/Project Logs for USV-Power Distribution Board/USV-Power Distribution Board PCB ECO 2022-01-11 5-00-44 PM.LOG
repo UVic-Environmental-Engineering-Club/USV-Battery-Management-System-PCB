@@ -1,0 +1,29 @@
+Change Component DesignItemId : Designator=F1 Old DesignItemId=CMP-00003-3 New DesignItemId=CMP-00003-5
+Change Component DesignItemId : Designator=F2 Old DesignItemId=CMP-00003-3 New DesignItemId=CMP-00003-5
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CMP-00007-2 New DesignItemId=CMP-00007-3
+Change Component Footprint: Designator=F1 Old Footprint=3555-2-Footprint-1 New Footprint=3555-2-Footprint-1
+Change Component Footprint: Designator=F2 Old Footprint=3555-2-Footprint-1 New Footprint=3555-2-Footprint-1
+Change Component Footprint: Designator=J1 Old Footprint=XT-90-Footprint-1 New Footprint=XT-90-Footprint-1
+Change Component Comment : Designator=L1 Old Comment=4.7µH New Comment=SRP1265A-4R7M
+Change Component Comment : Designator=L2 Old Comment=150µH New Comment=1415440C
+Change Managed Component Library Link : Designator=F1 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=ba4b5210-aded-47c9-bf57-00752fb2ec8f New ItemGUID=ba4b5210-aded-47c9-bf57-00752fb2ec8f Old RevisionGUID=668f3d13-7d97-4c56-8bb8-6370bb6de219 New RevisionGUID=92d2959a-2687-40a6-bd6a-f89737ebcb22
+Change Managed Component Library Link : Designator=F2 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=ba4b5210-aded-47c9-bf57-00752fb2ec8f New ItemGUID=ba4b5210-aded-47c9-bf57-00752fb2ec8f Old RevisionGUID=668f3d13-7d97-4c56-8bb8-6370bb6de219 New RevisionGUID=92d2959a-2687-40a6-bd6a-f89737ebcb22
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=bb63f51e-bd02-4f49-bd40-e414cb80163e New ItemGUID=bb63f51e-bd02-4f49-bd40-e414cb80163e Old RevisionGUID=0b5ff43f-e80c-4c07-af91-7779e32d1742 New RevisionGUID=74dfa062-b5ca-4c98-9ae1-cbb22e5ffb0a
+Added Component: Designator=U10(SOT95P275X100-6N)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT95P275X100-6N)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_EXT_CCB Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=NetMD1_10 Pin=U10-3
+Added Pin To Net: NetName=NetMD1_30 Pin=U10-4
+Added Pin To Net: NetName=NetR42_2 Pin=U10-5
+Added Pin To Net: NetName=+5_INT Pin=U10-6
+Added Pin To Net: NetName=+5V_EXT_RPI Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=NetMD1_37 Pin=U11-3
+Added Pin To Net: NetName=NetMD1_28 Pin=U11-4
+Added Pin To Net: NetName=NetR44_2 Pin=U11-5
+Added Pin To Net: NetName=+5_INT Pin=U11-6
+Added Member To Class: ClassName=Output Connections Member=Component U10 AP22615AWU-7
+Added Member To Class: ClassName=Output Connections Member=Component U11 AP22615AWU-7
