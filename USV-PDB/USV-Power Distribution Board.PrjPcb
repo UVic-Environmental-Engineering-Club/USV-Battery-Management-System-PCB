@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,7 +90,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -107,7 +107,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -124,7 +124,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -175,7 +175,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -192,7 +192,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -203,27 +203,27 @@ GenerateClassCluster=0
 DocumentUniqueId=CUAMDQRQ
 
 [Parameter1]
-Name=CAGE_CODE
-Value=N/A
+Name=VersionControl_ProjFolderRevNumber
+Value=2
 
 [Parameter2]
-Name=CHK_APP_DATE
+Name=SCH_SCALE
 Value=N/A
 
 [Parameter3]
-Name=DOC_NO_ASSY
-Value=1
+Name=Project
+Value=USV-PDB
 
 [Parameter4]
-Name=DOC_NO_ASSY_DWG
+Name=PCB_DWG_NO
 Value=N/A
 
 [Parameter5]
-Name=DOC_NO_BOM
+Name=ENG_APP_DATE
 Value=N/A
 
 [Parameter6]
-Name=DOC_NO_FAB_DWG
+Name=DSN_APP_DATE
 Value=N/A
 
 [Parameter7]
@@ -231,28 +231,28 @@ Name=DOC_NO_SCH_DWG
 Value=1
 
 [Parameter8]
-Name=DSN_APP_DATE
+Name=DOC_NO_FAB_DWG
 Value=N/A
 
 [Parameter9]
-Name=ENG_APP_DATE
+Name=DOC_NO_BOM
 Value=N/A
 
 [Parameter10]
-Name=PCB_DWG_NO
+Name=DOC_NO_ASSY_DWG
 Value=N/A
 
 [Parameter11]
-Name=Project
-Value=USV-PDB
+Name=DOC_NO_ASSY
+Value=1
 
 [Parameter12]
-Name=SCH_SCALE
+Name=CHK_APP_DATE
 Value=N/A
 
 [Parameter13]
-Name=VersionControl_ProjFolderRevNumber
-Value=1
+Name=CAGE_CODE
+Value=N/A
 
 [Configuration1]
 Name=Sources
