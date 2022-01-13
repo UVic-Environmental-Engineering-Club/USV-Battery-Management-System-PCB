@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Microcontroller Member=R49
+Removed Member From Class: ClassName=Output Connections Member=R49
+Removed Member From Class: ClassName=Microcontroller Member=R50
+Removed Member From Class: ClassName=Output Connections Member=R50
+Added Member To Class: ClassName=Microcontroller Member=Component R27 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R28 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R29 100 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R30 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R31 294 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R32 100 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R33 422 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R34 100 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R35 562 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R36 100 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R37 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R38 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R39 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R42 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R43 1 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R44 2.21 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R45 10 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R46 2.21 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R47 10 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R48 Value
