@@ -202,28 +202,45 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUAMDQRQ
 
+[Document10]
+DocumentPath=Overcurrent Protection.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXBBTVQM
+
 [Parameter1]
-Name=VersionControl_ProjFolderRevNumber
-Value=2
+Name=CAGE_CODE
+Value=N/A
 
 [Parameter2]
-Name=SCH_SCALE
+Name=CHK_APP_DATE
 Value=N/A
 
 [Parameter3]
-Name=Project
-Value=USV-PDB
+Name=DOC_NO_ASSY
+Value=1
 
 [Parameter4]
-Name=PCB_DWG_NO
+Name=DOC_NO_ASSY_DWG
 Value=N/A
 
 [Parameter5]
-Name=ENG_APP_DATE
+Name=DOC_NO_BOM
 Value=N/A
 
 [Parameter6]
-Name=DSN_APP_DATE
+Name=DOC_NO_FAB_DWG
 Value=N/A
 
 [Parameter7]
@@ -231,28 +248,28 @@ Name=DOC_NO_SCH_DWG
 Value=1
 
 [Parameter8]
-Name=DOC_NO_FAB_DWG
+Name=DSN_APP_DATE
 Value=N/A
 
 [Parameter9]
-Name=DOC_NO_BOM
+Name=ENG_APP_DATE
 Value=N/A
 
 [Parameter10]
-Name=DOC_NO_ASSY_DWG
+Name=PCB_DWG_NO
 Value=N/A
 
 [Parameter11]
-Name=DOC_NO_ASSY
-Value=1
+Name=Project
+Value=USV-PDB
 
 [Parameter12]
-Name=CHK_APP_DATE
+Name=SCH_SCALE
 Value=N/A
 
 [Parameter13]
-Name=CAGE_CODE
-Value=N/A
+Name=VersionControl_ProjFolderRevNumber
+Value=2
 
 [Configuration1]
 Name=Sources
