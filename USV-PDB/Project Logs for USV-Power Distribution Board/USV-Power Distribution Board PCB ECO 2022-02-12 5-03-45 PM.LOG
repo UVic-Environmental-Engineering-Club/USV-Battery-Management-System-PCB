@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=PG_5V Pin=IC2-2
+Removed Pin From Net: NetName=+5V_INT Pin=IC2-6
+Removed Member From Class: ClassName=Input Connections Member=C13
+Removed Member From Class: ClassName=Current Sensors Member=C22
+Removed Member From Class: ClassName=Current Sensors Member=C23
+Removed Member From Class: ClassName=Current Sensors Member=C24
+Removed Member From Class: ClassName=Input Connections Member=C24
+Removed Member From Class: ClassName=Power Supply Member=IC2
+Removed Member From Class: ClassName=Current Sensors Member=R9
+Removed Member From Class: ClassName=Current Sensors Member=R14
+Removed Member From Class: ClassName=Power Supply Member=R29
+Removed Member From Class: ClassName=Current Sensors Member=U7
+Added Pin To Net: NetName=+5V_INT Pin=IC1-3
+Added Pin To Net: NetName=PG_5V Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R28-2
+Added Net: Name=NetIC1_4
+Added Member To Class: ClassName=Input Connections Member=Component C2 470µF
+Added Member To Class: ClassName=Input Connections Member=Component C3 470µF
+Added Member To Class: ClassName=Input Connections Member=Component C4 220µF
+Added Member To Class: ClassName=Input Connections Member=Component C5 220µF
+Added Member To Class: ClassName=Input Connections Member=Component C6 47µF
+Added Member To Class: ClassName=Input Connections Member=Component C7 47µF
+Added Member To Class: ClassName=Input Connections Member=Component C8 10µF
+Added Member To Class: ClassName=Input Connections Member=Component C9 10µF
+Added Member To Class: ClassName=Input Connections Member=Component C10 1.5µF
+Added Member To Class: ClassName=Current Sensors Member=Component C11 10µF
+Added Member To Class: ClassName=Current Sensors Member=Component C12 10µF
+Added Member To Class: ClassName=Current Sensors Member=Component C14 10µF
+Added Member To Class: ClassName=Current Sensors Member=Component C15 10µF
+Added Member To Class: ClassName=Current Sensors Member=Component C16 0.1µF
+Added Member To Class: ClassName=Power Supply Member=Component C17 2.2µF
+Added Member To Class: ClassName=Power Supply Member=Component C18 1µF
+Added Member To Class: ClassName=Power Supply Member=Component C19 0.1µF
+Added Member To Class: ClassName=Power Supply Member=Component C20 0.1µF
+Added Member To Class: ClassName=Power Supply Member=Component C21 4700pF
+Added Member To Class: ClassName=Power Supply Member=Component C25 4.7µF
+Added Member To Class: ClassName=Power Supply Member=Component C26 100µF
+Added Member To Class: ClassName=Power Supply Member=Component C27 120µF
+Added Member To Class: ClassName=Power Supply Member=Component C28 0.1µF
+Added Member To Class: ClassName=Power Supply Member=Component C29 100µF
+Added Member To Class: ClassName=Power Supply Member=Component C30 6.8µF
+Added Member To Class: ClassName=Power Supply Member=Component C32 120µF
+Added Member To Class: ClassName=Power Supply Member=Component C34 0.1µF
+Added Member To Class: ClassName=Power Supply Member=Component C36 4700pF
+Added Member To Class: ClassName=Power Supply Member=Component C37 220pF
+Added Member To Class: ClassName=Power Supply Member=Component C40 4.7µF
+Added Member To Class: ClassName=Power Supply Member=Component C41 1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C42 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C43 10µF
+Added Member To Class: ClassName=Microcontroller Member=Component C44 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C45 10µF
+Added Member To Class: ClassName=Microcontroller Member=Component C46 1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C47 1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C48 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C49 0.1µF
+Added Member To Class: ClassName=Sensors Member=Component C50 1µF
+Added Member To Class: ClassName=Sensors Member=Component C51 0.1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C52 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C53 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C55 100µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C58 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C62 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C63 1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C64 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C65 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C66 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C67 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C68 1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C69 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C70 100µF
+Added Member To Class: ClassName=Input Connections Member=Component J2 53375-0210
+Added Member To Class: ClassName=Output Connections Member=Component J4 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J6 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J8 0436500215
+Added Member To Class: ClassName=Current Sensors Member=Component R6 20.5 Ohms
+Added Member To Class: ClassName=Current Sensors Member=Component R7 10 mOhms
+Added Member To Class: ClassName=Current Sensors Member=Component R8 20.5 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R10 10 mOhms
+Added Member To Class: ClassName=Power Supply Member=Component R11 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R12 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R13 19.6 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R15 100 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R16 Value
+Added Member To Class: ClassName=Power Supply Member=Component R18 100 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R19 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R21 324 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R22 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R23 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R24 75 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R27 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R30 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R31 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R32 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R34 3.3 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R35 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R36 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R37 2 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R38 Value
+Added Member To Class: ClassName=Sensors Member=Component R39 10 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R40 10 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R42 6.65 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R43 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R44 3.9 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R45 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R46 6.65 kOhms
+Added Member To Class: ClassName=Current Sensors Member=Component U2 MIC5014YM-TR
+Added Member To Class: ClassName=Current Sensors Member=Component U3 LMP8480MME-T/NOPB
+Added Member To Class: ClassName=Current Sensors Member=Component U4 MIC5014YM-TR
+Added Member To Class: ClassName=Current Sensors Member=Component U5 LMP8480MME-T/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U6 MIC261201YJL-TR
+Added Member To Class: ClassName=Power Supply Member=Component U7 INA168QPWRQ1
+Added Member To Class: ClassName=Power Supply Member=Component U8 LM26003MHX/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U9 INA168QPWRQ1
+Added Member To Class: ClassName=Power Supply Member=Component U10 MCP1827T-3302E/ET
+Added Member To Class: ClassName=Microcontroller Member=Component U11 CH340C
+Added Member To Class: ClassName=Microcontroller Member=Component U12 PCA9554ADW
+Added Member To Class: ClassName=Microcontroller Member=Component U13 MC74HC125ADTR2G
+Added Member To Class: ClassName=Sensors Member=Component U14 HTU31D
+Added Member To Class: ClassName=Overcurrent Protection Member=Component U15 MP5000ADQ-LF-P
+Added Member To Class: ClassName=Overcurrent Protection Member=Component U18 AP22615AWU-7
+Added Member To Class: ClassName=Overcurrent Protection Member=Component U19 MP5000ADQ-LF-P
+Added Member To Class: ClassName=Overcurrent Protection Member=Component U20 AP22615AWU-7
