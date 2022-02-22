@@ -33,10 +33,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=8472643F-2E4C-426D-987D-AB16C2B36DFF
-VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a
-ReleaseVaultName=Americas- Environmental Engineering Club- University of Victoria
-ItemGUID=8472643F-2E4C-426D-987D-AB16C2B36DFF
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -220,27 +217,27 @@ GenerateClassCluster=0
 DocumentUniqueId=RXBBTVQM
 
 [Parameter1]
-Name=CAGE_CODE
-Value=N/A
+Name=VersionControl_ProjFolderRevNumber
+Value=2
 
 [Parameter2]
-Name=CHK_APP_DATE
+Name=SCH_SCALE
 Value=N/A
 
 [Parameter3]
-Name=DOC_NO_ASSY
-Value=1
+Name=Project
+Value=USV-PDB
 
 [Parameter4]
-Name=DOC_NO_ASSY_DWG
+Name=PCB_DWG_NO
 Value=N/A
 
 [Parameter5]
-Name=DOC_NO_BOM
+Name=ENG_APP_DATE
 Value=N/A
 
 [Parameter6]
-Name=DOC_NO_FAB_DWG
+Name=DSN_APP_DATE
 Value=N/A
 
 [Parameter7]
@@ -248,28 +245,28 @@ Name=DOC_NO_SCH_DWG
 Value=1
 
 [Parameter8]
-Name=DSN_APP_DATE
+Name=DOC_NO_FAB_DWG
 Value=N/A
 
 [Parameter9]
-Name=ENG_APP_DATE
+Name=DOC_NO_BOM
 Value=N/A
 
 [Parameter10]
-Name=PCB_DWG_NO
+Name=DOC_NO_ASSY_DWG
 Value=N/A
 
 [Parameter11]
-Name=Project
-Value=USV-PDB
+Name=DOC_NO_ASSY
+Value=1
 
 [Parameter12]
-Name=SCH_SCALE
+Name=CHK_APP_DATE
 Value=N/A
 
 [Parameter13]
-Name=VersionControl_ProjFolderRevNumber
-Value=2
+Name=CAGE_CODE
+Value=N/A
 
 [Configuration1]
 Name=Sources
@@ -390,7 +387,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPA6B6F1 (HP DeskJet 4100 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
