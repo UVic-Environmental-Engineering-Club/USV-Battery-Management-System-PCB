@@ -1,0 +1,87 @@
+Removed Member From Class: ClassName=Sensors Member=C60
+Removed Member From Class: ClassName=Overcurrent Protection Member=C62
+Removed Member From Class: ClassName=Power Supply Member=R39
+Removed Member From Class: ClassName=Power Supply Member=R44
+Removed Member From Class: ClassName=Microcontroller Member=R49
+Removed Member From Class: ClassName=Power Supply Member=R49
+Removed Member From Class: ClassName=Microcontroller Member=R50
+Removed Member From Class: ClassName=Microcontroller Member=R51
+Removed Member From Class: ClassName=Output Connections Member=R51
+Removed Member From Class: ClassName=Sensors Member=R59
+Change Footprint: Footprint Not Found CAP 0805_2012
+Change Footprint: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Change Footprint: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Change Footprint: Footprint Not Found CAP 0603_1608
+Change Component Comment : Designator=R33 Old Comment=11.8 kOhms New Comment=19.6 kOhms
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RES 0603_1608"; UniqueID = "\IEFZEBGN\LULXLPDR" ("\IEFZEBGN\LULXLPDR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0719K6L/727003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2022-03-04 5:47:06 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0603FR-0719K6L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "7588"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "19.6 kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RC_L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-19.6KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "19.6 kOhms"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Microcontroller Member=Component C53 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C54 10µF
+Added Member To Class: ClassName=Microcontroller Member=Component C55 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C57 1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C58 1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C61 0.1µF
+Added Member To Class: ClassName=Sensors Member=Component C63 0.1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C64 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C66 1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C68 0.1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C70 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C72 100µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C74 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C75 1µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C77 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C79 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C81 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C84 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C86 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C88 1000pF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C92 100µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C94 10µF
+Added Member To Class: ClassName=Overcurrent Protection Member=Component C97 10µF
+Added Member To Class: ClassName=Power Supply Member=Component R36 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R37 75 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R38 12.1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R39 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R40 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R41 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R42 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R43 3.3 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R45 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R46 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R47 2 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R48 Value
+Added Member To Class: ClassName=Sensors Member=Component R50 10 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R52 6.65 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R53 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R54 3.9 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R55 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R56 6.65 kOhms

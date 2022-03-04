@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP 0603_1608
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C43-2
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C45-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC45_1
+Add Class Member: Failed to add class member : Component C43 6.8µF
+Add Class Member: Failed to add class member : Component C45 120µF
+Add Class Member: Failed to add class member : Component C46 120µF
+Add Class Member: Failed to add class member : Component C50 220pF

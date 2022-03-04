@@ -1,0 +1,24 @@
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Change Net Name : Old Net Name=NetC45_1 New Net Name=NetC48_1
+Add Class Member: Failed to add class member : Component C? 120µF
+Add Class Member: Failed to add class member : Component C? 220pF
+Add Class Member: Failed to add class member : Component C? 120µF
+Add Class Member: Failed to add class member : Component C? 6.8µF
+Added Room: Name=Current Sensors
+Added Room: Name=Input Connections
+Added Room: Name=Microcontroller
+Added Room: Name=Output Connections
+Added Room: Name=Overcurrent Protection
+Added Room: Name=Power Supply
+Added Room: Name=Sensors
