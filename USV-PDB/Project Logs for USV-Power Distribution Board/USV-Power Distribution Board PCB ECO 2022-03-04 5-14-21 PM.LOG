@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=Input Connections Member=J5
+Removed Member From Class: ClassName=Input Connections Member=R7
+Removed Member From Class: ClassName=Current Sensors Member=R10
+Removed Member From Class: ClassName=Microcontroller Member=R50
+Removed Member From Class: ClassName=Output Connections Member=R50
+Removed Member From Class: ClassName=Sensors Member=R52
+Added Member To Class: ClassName=Input Connections Member=Component J3 53375-0210
+Added Member To Class: ClassName=Output Connections Member=Component J4 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J6 8 AWG Connector
+Added Member To Class: ClassName=Output Connections Member=Component J7 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J10 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J12 8 AWG Connector
+Added Member To Class: ClassName=Output Connections Member=Component J13 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J16 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J17 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J18 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J19 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J20 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component J21 0436500215
+Added Member To Class: ClassName=Output Connections Member=Component MH10 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=Input Connections Member=Component R5 10 kOhms
+Added Member To Class: ClassName=Current Sensors Member=Component R6 10 mOhms
+Added Member To Class: ClassName=Current Sensors Member=Component R8 10 mOhms
+Added Member To Class: ClassName=Current Sensors Member=Component R9 20.5 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R12 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R14 19.6 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R15 1.91 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R17 0 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R18 10 mOhms
+Added Member To Class: ClassName=Power Supply Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R21 2 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R22 1 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R23 11.8 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R25 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R27 75 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R29 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R30 0 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R32 100 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R33 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R34 19.6 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R35 324 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R38 75 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R40 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R42 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R43 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R44 3.3 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R46 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R48 2 kOhms
+Added Member To Class: ClassName=Output Connections Member=Component R49 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R51 10 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R53 6.65 kOhms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R54 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R56 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R58 100 Ohms
+Added Member To Class: ClassName=Overcurrent Protection Member=Component R59 2.21 kOhms

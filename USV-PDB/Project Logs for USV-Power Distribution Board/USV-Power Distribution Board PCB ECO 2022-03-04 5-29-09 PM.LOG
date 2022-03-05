@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CMP-00025-1 New DesignItemId=CMP-00025-2
+Change Component DesignItemId : Designator=J6 Old DesignItemId=CMP-00025-1 New DesignItemId=CMP-00025-2
+Change Component DesignItemId : Designator=J12 Old DesignItemId=CMP-00025-1 New DesignItemId=CMP-00025-2
+Change Component Footprint: Designator=J1 Old Footprint=8 AWG Connector-Footprint-1 New Footprint=8 AWG Connector-Footprint-1
+Change Component Footprint: Designator=J6 Old Footprint=8 AWG Connector-Footprint-1 New Footprint=8 AWG Connector-Footprint-1
+Change Component Footprint: Designator=J12 Old Footprint=8 AWG Connector-Footprint-1 New Footprint=8 AWG Connector-Footprint-1
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 New ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 Old RevisionGUID=bced3a39-48e7-48ac-8ba5-9976212ea3f3 New RevisionGUID=b16c11f3-6222-417d-a159-f008d9e5a5bc
+Change Managed Component Library Link : Designator=J6 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 New ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 Old RevisionGUID=bced3a39-48e7-48ac-8ba5-9976212ea3f3 New RevisionGUID=b16c11f3-6222-417d-a159-f008d9e5a5bc
+Change Managed Component Library Link : Designator=J12 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 New ItemGUID=5533f55f-6b5e-44fc-8eb3-679afd316c46 Old RevisionGUID=bced3a39-48e7-48ac-8ba5-9976212ea3f3 New RevisionGUID=b16c11f3-6222-417d-a159-f008d9e5a5bc
