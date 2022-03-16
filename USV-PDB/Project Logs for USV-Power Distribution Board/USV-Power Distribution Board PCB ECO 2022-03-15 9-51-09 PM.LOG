@@ -1,0 +1,238 @@
+Change Component Footprint: Designator=R7 Old Footprint=STACKPOLE CSR2512 New Footprint=RES 2512_6432
+Change Component Footprint: Designator=R9 Old Footprint=STACKPOLE CSR2512 New Footprint=RES 2512_6432
+Change Component Comment : Designator=R7 Old Comment=10 mOhms New Comment=750 µOhms
+Change Component Comment : Designator=R9 Old Comment=10 mOhms New Comment=750 µOhms
+Change Component Comment : Designator=Q1 Old Comment=IRFS7530TRLPBF New Comment=IRFS7437TRLPBF
+Change Component Comment : Designator=Q2 Old Comment=IRFS7530TRLPBF New Comment=IRFS7437TRLPBF
+Change Component Comment : Designator=U3 Old Comment=LMP8480MME-T/NOPB New Comment=LMP8481MME-S/NOPB
+Change Component Comment : Designator=U5 Old Comment=LMP8480MME-T/NOPB New Comment=LMP8481MME-S/NOPB
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=b19ffd03-4def-4f70-bc04-16bc949405dc New ItemGUID=b19ffd03-4def-4f70-bc04-16bc949405dc Old RevisionGUID=5d0d8897-0a72-4402-b31e-a537e77c7c36 New RevisionGUID=06f87775-14da-4b67-9ecd-a1d7e22ca1a0
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=b19ffd03-4def-4f70-bc04-16bc949405dc New ItemGUID=b19ffd03-4def-4f70-bc04-16bc949405dc Old RevisionGUID=5d0d8897-0a72-4402-b31e-a537e77c7c36 New RevisionGUID=06f87775-14da-4b67-9ecd-a1d7e22ca1a0
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=9c1f654c-d56b-44be-8e03-7d7338ea794b New ItemGUID=9c1f654c-d56b-44be-8e03-7d7338ea794b Old RevisionGUID=845d2ff7-41be-45d2-abdb-fc0e78b88104 New RevisionGUID=bb54fedc-05e2-4eae-9982-53462a42d472
+Change Managed Component Library Link : Designator=U5 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=9c1f654c-d56b-44be-8e03-7d7338ea794b New ItemGUID=9c1f654c-d56b-44be-8e03-7d7338ea794b Old RevisionGUID=845d2ff7-41be-45d2-abdb-fc0e78b88104 New RevisionGUID=bb54fedc-05e2-4eae-9982-53462a42d472
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "DPAK228P1524X483-3N"; UniqueID = "\PBIEAORJ\UGNOTCVW" ("\PBIEAORJ\UGNOTCVW")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "195A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Resistance"; Value = "1.65mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall Time"; Value = "104ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "7.33nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.67mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Dual Supply Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "230W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "375W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "1.8mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rise Time"; Value = "141ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "172ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "52ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.139332oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "9.65mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "DPAK228P1524X483-3N"; UniqueID = "\PBIEAORJ\CBTDVWQL" ("\PBIEAORJ\CBTDVWQL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "195A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Resistance"; Value = "1.65mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall Time"; Value = "104ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "7.33nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.67mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Dual Supply Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "230W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "375W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "1.8mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rise Time"; Value = "141ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "172ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "52ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.139332oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "9.65mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "STACKPOLE CSR2512"; UniqueID = "\IVSCKFRA\PGYNCRZD" ("\IVSCKFRA\PGYNCRZD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://riedon.com/media/pdf/CSRL.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/riedon/CSRL3-0R00075F8/9666048"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Metal Element"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Current Sense, Non-Inductive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2022-02-17 6:29:28 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Riedon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 170°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CSRL3-0R00075F8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "750 µOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CSRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.250" L x 0.125" W (6.35mm x 3.18mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "696-1833-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "750 µOhms"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "STACKPOLE CSR2512"; UniqueID = "\IVSCKFRA\DESBGZJI" ("\IVSCKFRA\DESBGZJI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://riedon.com/media/pdf/CSRL.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/riedon/CSRL3-0R00075F8/9666048"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Metal Element"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Current Sense, Non-Inductive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2022-02-17 6:29:28 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Riedon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 170°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CSRL3-0R00075F8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "750 µOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CSRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.250" L x 0.125" W (6.35mm x 3.18mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "696-1833-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "750 µOhms"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP ALSMD 6.6MM H8.0MM
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Component: Footprint Not Found CAP 1206_3216 - 1.8MM
+Add Component: Footprint Not Found CAP 0805_2012
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C68-1
+Add Pin To Net: Unknown Pin: Pin C68-2
+Add Pin To Net: Unknown Pin: Pin C70-1
+Add Pin To Net: Unknown Pin: Pin C70-2
+Add Pin To Net: Unknown Pin: Pin C73-1
+Add Pin To Net: Unknown Pin: Pin C73-2
+Add Pin To Net: Unknown Pin: Pin C77-1
+Add Pin To Net: Unknown Pin: Pin C77-2
+Add Pin To Net: Unknown Pin: Pin C83-1
+Add Pin To Net: Unknown Pin: Pin C83-2
+Add Pin To Net: Unknown Pin: Pin C85-1
+Add Pin To Net: Unknown Pin: Pin C85-2
+Add Pin To Net: Unknown Pin: Pin C90-1
+Add Pin To Net: Unknown Pin: Pin C90-2
+Add Pin To Net: Unknown Pin: Pin C92-1
+Add Pin To Net: Unknown Pin: Pin C92-2
+Add Pin To Net: Unknown Pin: Pin C93-1
+Add Pin To Net: Unknown Pin: Pin C93-2
+Add Pin To Net: Unknown Pin: Pin C95-1
+Add Pin To Net: Unknown Pin: Pin C95-2
+Add Pin To Net: Unknown Pin: Pin C96-1
+Add Pin To Net: Unknown Pin: Pin C96-2
+Add Pin To Net: Unknown Pin: Pin C98-1
+Add Pin To Net: Unknown Pin: Pin C98-2
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Add Class Member: Failed to add class member : Component C6 47µF
+Add Class Member: Failed to add class member : Component C7 47µF
+Add Class Member: Failed to add class member : Component C8 10µF
+Add Class Member: Failed to add class member : Component C9 10µF
+Add Class Member: Failed to add class member : Component C10 1.5µF
+Add Class Member: Failed to add class member : Component C11 10µF
+Add Class Member: Failed to add class member : Component C12 10µF
+Add Class Member: Failed to add class member : Component C14 10µF
+Add Class Member: Failed to add class member : Component C15 10µF
+Add Class Member: Failed to add class member : Component C23 120µF
+Add Class Member: Failed to add class member : Component C27 120µF
+Add Class Member: Failed to add class member : Component C41 1µF
+Add Class Member: Failed to add class member : Component C68 100µF
+Add Class Member: Failed to add class member : Component C70 10µF
+Add Class Member: Failed to add class member : Component C73 100µF
+Add Class Member: Failed to add class member : Component C77 10µF
+Add Class Member: Failed to add class member : Component C83 100µF
+Add Class Member: Failed to add class member : Component C85 10µF
+Add Class Member: Failed to add class member : Component C90 100µF
+Add Class Member: Failed to add class member : Component C92 10µF
+Add Class Member: Failed to add class member : Component C93 100µF
+Add Class Member: Failed to add class member : Component C95 10µF
+Add Class Member: Failed to add class member : Component C96 100µF
+Add Class Member: Failed to add class member : Component C98 10µF
