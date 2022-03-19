@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5V_INT Pin=J23-1
+Removed Pin From Net: NetName=PGND Pin=J23-3
+Added Pin To Net: NetName=PGND Pin=J23-1
+Added Pin To Net: NetName=+5V_INT Pin=J23-3
+Added Room: Name=Current Sensors
+Added Room: Name=Input Connections
+Added Room: Name=Microcontroller
+Added Room: Name=Output Connections
+Added Room: Name=Sensors

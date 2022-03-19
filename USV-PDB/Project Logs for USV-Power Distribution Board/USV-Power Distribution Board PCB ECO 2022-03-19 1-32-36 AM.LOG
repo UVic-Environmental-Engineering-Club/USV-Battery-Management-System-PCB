@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=+5V_EXT_RPI Pin=J14-1
+Removed Pin From Net: NetName=PGND Pin=J14-4
+Removed Pin From Net: NetName=PGND Pin=J14-S
+Removed Pin From Net: NetName=PGND Pin=J14-S
+Removed Pin From Net: NetName=PGND Pin=J22-5
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Pin From Net: NetName=PGND Pin=J22-S
+Removed Member From Class: ClassName=Output Connections Member=J24
+Change Component Footprint: Designator=J14 Old Footprint=87520-1010BLF-Footprint-1 New Footprint=USB-C31-A-D-VT-CS1-Footprint-1
+Change Component Comment : Designator=J14 Old Comment=87520-1010BLF New Comment=USB-C31-A-D-VT-CS1
+Change Component Designator: OldDesignator=J23 NewDesignator=J22
+Change Component Designator: OldDesignator=J24 NewDesignator=J23
+Change Managed Component Library Link : Designator=J14 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=903275af-8cc3-448e-8d2b-05cf8bd5c12c New ItemGUID=e679cfa2-32d7-4183-ac6e-7da03598df30 Old RevisionGUID=1b663708-63ba-492c-a76d-dd207a8951e6 New RevisionGUID=935b4265-dc23-4063-a552-0ab8129c62df
+Added Component: Designator=TP1(1mm Test Point-Footprint-1)
+Added Component: Designator=TP2(1mm Test Point-Footprint-1)
+Added Component: Designator=TP3(1mm Test Point-Footprint-1)
+Added Component: Designator=TP4(1mm Test Point-Footprint-1)
+Added Component: Designator=TP5(1mm Test Point-Footprint-1)
+Added Component: Designator=TP6(1mm Test Point-Footprint-1)
+Added Component: Designator=TP7(1mm Test Point-Footprint-1)
+Added Component: Designator=TP8(1mm Test Point-Footprint-1)
+Added Component: Designator=TP9(1mm Test Point-Footprint-1)
+Added Component: Designator=TP10(1mm Test Point-Footprint-1)
+Added Component: Designator=TP11(1mm Test Point-Footprint-1)
+Added Component: Designator=TP12(1mm Test Point-Footprint-1)
+Added Component: Designator=TP13(1mm Test Point-Footprint-1)
+Added Component: Designator=TP14(1mm Test Point-Footprint-1)
+Added Component: Designator=TP15(1mm Test Point-Footprint-1)
+Added Component: Designator=TP16(1mm Test Point-Footprint-1)
+Added Component: Designator=TP17(1mm Test Point-Footprint-1)
+Added Component: Designator=TP18(1mm Test Point-Footprint-1)
+Added Component: Designator=TP19(1mm Test Point-Footprint-1)
+Added Component: Designator=TP20(1mm Test Point-Footprint-1)
+Added Pin To Net: NetName=PGND Pin=J14-G_A1
+Added Pin To Net: NetName=PGND Pin=J14-G_A2
+Added Pin To Net: NetName=PGND Pin=J14-G_B1
+Added Pin To Net: NetName=PGND Pin=J14-G_B2
+Added Pin To Net: NetName=PGND Pin=J14-G
+Added Pin To Net: NetName=PGND Pin=J14-S1
+Added Pin To Net: NetName=PGND Pin=J14-S2
+Added Pin To Net: NetName=+5V_EXT_RPI Pin=J14-V
+Added Pin To Net: NetName=+12V_INT Pin=TP1-1
+Added Pin To Net: NetName=+7V4_INT Pin=TP2-1
+Added Pin To Net: NetName=+5V_INT Pin=TP3-1
+Added Pin To Net: NetName=+3V3_INT Pin=TP4-1
+Added Pin To Net: NetName=VBATT Pin=TP5-1
+Added Pin To Net: NetName=VCC Pin=TP6-1
+Added Pin To Net: NetName=MTR_PWR_1 Pin=TP7-1
+Added Pin To Net: NetName=MTR_PWR_2 Pin=TP8-1
+Added Pin To Net: NetName=TX0 Pin=TP9-1
+Added Pin To Net: NetName=5V_CURRENT Pin=TP10-1
+Added Pin To Net: NetName=SCL Pin=TP11-1
+Added Pin To Net: NetName=RX0 Pin=TP12-1
+Added Pin To Net: NetName=12V_CURRENT Pin=TP13-1
+Added Pin To Net: NetName=SDA Pin=TP14-1
+Added Pin To Net: NetName=MTR_1_CURRENT Pin=TP16-1
+Added Pin To Net: NetName=MTR_2_CURRENT Pin=TP19-1
+Change Net Name : Old Net Name=NetJ23_2 New Net Name=NetJ22_2
+Change Net Name : Old Net Name=NetJ23_3 New Net Name=NetJ22_3
+Change Net Name : Old Net Name=NetJ24_2 New Net Name=NetJ23_2
+Added Pin To Net: NetName=D+ Pin=TP18-1
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=TP15-1
+Added Net: Name=D-
+Added Pin To Net: NetName=DATA_OUT Pin=TP20-1
+Added Net: Name=DATA_OUT
+Added Pin To Net: NetName=MBF_PWM Pin=TP17-1
+Added Net: Name=MBF_PWM
+Added Pin To Net: NetName=NetJ14_D+_A Pin=J14-D+_A
+Added Pin To Net: NetName=NetJ14_D+_A Pin=J14-D+_B
+Added Pin To Net: NetName=NetJ14_D+_A Pin=U13-5
+Added Net: Name=NetJ14_D+_A
+Added Pin To Net: NetName=NetJ14_D-_A Pin=J14-D-_A
+Added Pin To Net: NetName=NetJ14_D-_A Pin=J14-D-_B
+Added Pin To Net: NetName=NetJ14_D-_A Pin=U13-6
+Added Net: Name=NetJ14_D-_A
+Added Pin To Net: NetName=NetJ14_V_A1 Pin=J14-V_A1
+Added Pin To Net: NetName=NetJ14_V_A1 Pin=J14-V_A2
+Added Pin To Net: NetName=NetJ14_V_A1 Pin=J14-V_B1
+Added Pin To Net: NetName=NetJ14_V_A1 Pin=J14-V_B2
+Added Pin To Net: NetName=NetJ14_V_A1 Pin=R53-1
+Added Net: Name=NetJ14_V_A1
+Added Member To Class: ClassName=Power Supply Member=Component TP1 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP2 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP3 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP4 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP5 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP6 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP7 1mm Test Point
+Added Member To Class: ClassName=Power Supply Member=Component TP8 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP9 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP10 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP11 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP12 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP13 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP14 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP15 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP16 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP17 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP18 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP19 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP20 1mm Test Point
