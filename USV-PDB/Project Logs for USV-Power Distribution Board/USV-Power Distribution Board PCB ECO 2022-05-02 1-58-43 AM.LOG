@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetMD1_36 Pin=TP11-1
+Added Pin To Net: NetName=NetMD1_33 Pin=TP14-1
+Added Member To Class: ClassName=Sensors Member=Component U17 HTU31D
+Added Member To Class: ClassName=Sensors Member=Component U28 PCT2075GVX
+Added Member To Class: ClassName=Sensors Member=Component U29 PCT2075GVX
+Added Member To Class: ClassName=Sensors Member=Component U30 PCT2075GVX

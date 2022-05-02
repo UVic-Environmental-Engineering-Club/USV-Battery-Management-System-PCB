@@ -1,0 +1,12 @@
+Added Component: Designator=TP15(1mm Test Point-Footprint-1)
+Added Component: Designator=TP17(1mm Test Point-Footprint-1)
+Added Component: Designator=TP18(1mm Test Point-Footprint-1)
+Added Component: Designator=TP20(1mm Test Point-Footprint-1)
+Added Pin To Net: NetName=D- Pin=TP15-1
+Added Pin To Net: NetName=MBF_PWM Pin=TP17-1
+Added Pin To Net: NetName=D+ Pin=TP18-1
+Added Pin To Net: NetName=DATA_OUT Pin=TP20-1
+Added Member To Class: ClassName=Output Connections Member=Component TP15 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP17 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP18 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP20 1mm Test Point

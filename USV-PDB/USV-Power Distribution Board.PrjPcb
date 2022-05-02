@@ -221,6 +221,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXBBTVQM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USV-Power Distribution Board\Design Rule Check - USV-Power Distribution Board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CAGE_CODE
 Value=N/A
@@ -392,7 +396,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPA6B6F1 (HP DeskJet 4100 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

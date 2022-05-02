@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Microcontroller Member=TP15
+Removed Member From Class: ClassName=Microcontroller Member=TP17
+Removed Member From Class: ClassName=Microcontroller Member=TP18
+Removed Member From Class: ClassName=Microcontroller Member=TP20
+Added Member To Class: ClassName=Output Connections Member=Component TP15 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP17 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP18 1mm Test Point
+Added Member To Class: ClassName=Output Connections Member=Component TP20 1mm Test Point
