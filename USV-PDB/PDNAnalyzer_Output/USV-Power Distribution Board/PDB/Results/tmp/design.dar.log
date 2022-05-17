@@ -1,0 +1,174 @@
+
+Importing C:\USV-Power-Distribution-Board-PCB\USV-PDB\PDNAnalyzer_Output\USV-Power Distribution Board\PDB\odb.tgz... [Fri May 13 18:46:32 2022]
+============================================================
+Reading ODB++ database ...
+
+Reading file odb/misc/info...
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/symbols/uds_rect27.559x17.7165_225/features...
+Reading file odb/symbols/uds_rect27.559x17.7166_225/features...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+WARNING: Ignoring I(252 time(s))
+eda data: 53 packages, 142 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+955 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+6992 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/dielectric_2/features...
+0 SWHs on layer DIELECTRIC_2
+
+Reading file odb/steps/pcb/layers/inner_1/features...
+2739 SWHs on layer INNER_1
+
+Reading file odb/steps/pcb/layers/dielectric_1/features...
+0 SWHs on layer DIELECTRIC_1
+
+Reading file odb/steps/pcb/layers/inner_2/features...
+3295 SWHs on layer INNER_2
+
+Reading file odb/steps/pcb/layers/dielectric_3/features...
+0 SWHs on layer DIELECTRIC_3
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+5486 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+188 SWHs on layer BOTTOM_SOLDER
+
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/dielectric_2/attrlist...
+Reading file odb/steps/pcb/layers/inner_1/attrlist...
+Reading file odb/steps/pcb/layers/dielectric_1/attrlist...
+Reading file odb/steps/pcb/layers/inner_2/attrlist...
+Reading file odb/steps/pcb/layers/dielectric_3/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'INNER_1', 'DIELECTRIC_1', 'INNER_2', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill_non-plated_bottom-top/features...
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill_plated_bottom-top/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J18, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4334.75609999999960564309731126, 639.535300000000006548361852765)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J18, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4688.75609999999960564309731126, 639.535300000000006548361852765)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J17, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4838.80330000000049039954319596, 818.535399999999981446308083832)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J17, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (5192.80329999999958090484142303, 818.535399999999981446308083832)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J11, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (634.062999999999988176568876952, 3084.41730000000006839400157332)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J11, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (988.062999999999988176568876952, 3084.41730000000006839400157332)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J7, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (988.062999999999988176568876952, 3454.49580000000014479155652225)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J7, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (634.062999999999988176568876952, 3454.49580000000014479155652225)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J10, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (5192.80329999999958090484142303, 520.602300000000013824319466949)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J10, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4838.80330000000049039954319596, 520.602300000000013824319466949)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J5, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4334.75609999999960564309731126, 341.602399999999988722265698016)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J5, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4688.75609999999960564309731126, 341.602399999999988722265698016)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J21, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (5192.80329999999958090484142303, 222.669299999999992678567650728)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J21, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4838.80330000000049039954319596, 222.669299999999992678567650728)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J19, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4688.75609999999960564309731126, 43.6692999999999997839950083289)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J19, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (4334.75609999999960564309731126, 43.6692999999999997839950083289)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J16, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6535.5983000000005631591193378, 935.346400000000016916601452976)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J16, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6889.5983000000005631591193378, 935.346400000000016916601452976)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J9, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6535.5983000000005631591193378, 1622.66920000000004620233085006)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J9, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6889.5983000000005631591193378, 1622.66920000000004620233085006)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J13, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (1723.62989999999990686774253845, 48.9843000000000046156856114976)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J13, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (2077.62989999999990686774253845, 48.9843000000000046156856114976)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J15, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (1723.62989999999990686774253845, 1111.97640000000001236912794411)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J15, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (2077.62989999999990686774253845, 1111.97640000000001236912794411)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J4, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6535.5983000000005631591193378, 1279.00780000000008840288501233)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J4, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (6889.5983000000005631591193378, 1279.00780000000008840288501233)
+WARNING: didn't find pad for pin PDNA_PIN_25_1 from component J8, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (2077.62989999999990686774253845, 408.039400000000000545696821064)
+WARNING: didn't find pad for pin PDNA_PIN_25_2 from component J8, place pin on component side
+['bottom_solder', 'drill_plated_bottom-top', 'top_solder'] [] (1723.62989999999990686774253845, 408.039400000000000545696821064)
+INFO: 41 duplicate vertices ignored
+========================================
+INFO: Created CSV file (C:\USV-Power-Distribution-Board-PCB\USV-PDB\PDNAnalyzer_Output\USV-Power Distribution Board\PDB\Results\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\USV-Power-Distribution-Board-PCB\USV-PDB\PDNAnalyzer_Output\USV-Power Distribution Board\PDB\Results\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0 Ohms ->  0.0 Ohms (R)
+	0.022 µF ->  21.999999999999996 nF (C)
+	0.1 µF ->  99.99999999999999 nF (C)
+	1 kOhms ->  1.0 kOhms (R)
+	1 µF ->  1.0 uF (C)
+	1.5 µF ->  1.5 uF (C)
+	1.91 kOhms ->  1.91 kOhms (R)
+	10 Ohms ->  10.0 Ohms (R)
+	10 kOhms ->  10.0 kOhms (R)
+	10 mOhms ->  10.0 mOhms (R)
+	10 µF ->  10.0 uF (C)
+	100 Ohms ->  100.0 Ohms (R)
+	100 kOhms ->  100.0 kOhms (R)
+	100 µF ->  100.0 uF (C)
+	1000 pF ->  1.0 nF (C)
+	10000 pF ->  10.0 nF (C)
+	100µF ->  100.0 uF (C)
+	11.8 kOhms ->  11.8 kOhms (R)
+	12.1 kOhms ->  12.1 kOhms (R)
+	120 µF ->  120.0 uF (C)
+	19.6 kOhms ->  19.6 kOhms (R)
+	1µF ->  1.0 uF (C)
+	2 kOhms ->  2.0 kOhms (R)
+	2.2 µF ->  2.2 uF (C)
+	2.21 kOhms ->  2.21 kOhms (R)
+	20.5 Ohms ->  20.5 Ohms (R)
+	220 pF ->  220.0 pF (C)
+	220µF ->  220.0 uF (C)
+	2700pF ->  2.6999999999999997 nF (C)
+	3.3 kOhms ->  3.3 kOhms (R)
+	3.9 kOhms ->  3.9 kOhms (R)
+	324 kOhms ->  324.0 kOhms (R)
+	330 Ohms ->  330.0 Ohms (R)
+	357 Ohms ->  357.0 Ohms (R)
+	4.7 µF ->  4.7 uF (C)
+	47 µF ->  47.0 uF (C)
+	4700 pF ->  4.699999999999999 nF (C)
+	4700pF ->  4.699999999999999 nF (C)
+	470µF ->  470.0 uF (C)
+	6.65 kOhms ->  6.65 kOhms (R)
+	6.8 µF ->  6.8 uF (C)
+	698 kOhms ->  698.0 kOhms (R)
+	75 kOhms ->  75.0 kOhms (R)
+	750 µOhms ->  750.0 uOhms (R)
+WARNING: column header(s) 'type' found multiple times (taking the first one)
+WARNING: unphysical value: 0.0 Ohms
+WARNING: unable to interpret: [empty string]
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'C:\USV-Power-Distribution-Board-PCB\USV-PDB\PDNAnalyzer_Output\USV-Power Distribution Board\PDB\Results\tmp\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================

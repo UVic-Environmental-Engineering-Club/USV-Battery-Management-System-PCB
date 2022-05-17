@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=HS? NewDesignator=HS1
+Change Component Designator: OldDesignator=HS? NewDesignator=HS3
+Added Member To Class: ClassName=Current Sensors Member=Component HS3 201835

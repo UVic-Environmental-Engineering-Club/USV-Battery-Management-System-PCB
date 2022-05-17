@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Power Supply Member=HS1
+Removed Member From Class: ClassName=Power Supply Member=HS3
+Removed Member From Class: ClassName=Power Supply Member=HS5
+Added Component: Designator=HS2(201835-Footprint-1)
+Added Component: Designator=HS?(201835-Footprint-1)
+Added Component: Designator=HS?(201835-Footprint-1)
+Added Pin To Net: NetName=VCC Pin=HS2-1
+Added Pin To Net: NetName=MTR_PWR_1 Pin=HS?-1
+Added Pin To Net: NetName=MTR_PWR_2 Pin=HS?-1
+Added Member To Class: ClassName=Input Connections Member=Component HS2 201835
+Added Member To Class: ClassName=Current Sensors Member=Component HS? 201835
+Added Member To Class: ClassName=Current Sensors Member=Component HS? 201835

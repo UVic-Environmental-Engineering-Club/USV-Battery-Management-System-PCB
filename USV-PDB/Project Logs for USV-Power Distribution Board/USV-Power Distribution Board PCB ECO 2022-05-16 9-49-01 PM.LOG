@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Power Supply Member=HS2
+Removed Member From Class: ClassName=Power Supply Member=HS4
+Removed Member From Class: ClassName=Power Supply Member=HS6
+Change Component DesignItemId : Designator=HS1 Old DesignItemId=CMP-00028-00001-3 New DesignItemId=CMP-00028-00001-4
+Change Component DesignItemId : Designator=HS3 Old DesignItemId=CMP-00028-00001-3 New DesignItemId=CMP-00028-00001-4
+Change Component DesignItemId : Designator=HS5 Old DesignItemId=CMP-00028-00001-3 New DesignItemId=CMP-00028-00001-4
+Change Component Footprint: Designator=HS1 Old Footprint=201835-Footprint-1 New Footprint=201835-Footprint-1
+Change Component Footprint: Designator=HS3 Old Footprint=201835-Footprint-1 New Footprint=201835-Footprint-1
+Change Component Footprint: Designator=HS5 Old Footprint=201835-Footprint-1 New Footprint=201835-Footprint-1
+Change Managed Component Library Link : Designator=HS1 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 New ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 Old RevisionGUID=80acbed3-4b61-47be-a5c5-30850c9d0dbc New RevisionGUID=eb23be44-c6e0-4038-88f7-bf48a13eb0e5
+Change Managed Component Library Link : Designator=HS3 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 New ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 Old RevisionGUID=80acbed3-4b61-47be-a5c5-30850c9d0dbc New RevisionGUID=eb23be44-c6e0-4038-88f7-bf48a13eb0e5
+Change Managed Component Library Link : Designator=HS5 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 New ItemGUID=b63ae1d6-385a-4e04-bd62-0b3c0ce90197 Old RevisionGUID=80acbed3-4b61-47be-a5c5-30850c9d0dbc New RevisionGUID=eb23be44-c6e0-4038-88f7-bf48a13eb0e5
