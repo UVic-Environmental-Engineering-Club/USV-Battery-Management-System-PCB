@@ -1,142 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
-Date     : 2022-05-16
-Time     : 10:24:01 PM
+Date     : 2022-05-21
+Time     : 6:48:05 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (101.892mm,62.146mm)(109.1mm,69.354mm) on Inner 2 And Track (109.1mm,55.8mm)(109.1mm,68.815mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (101.892mm,62.146mm)(109.1mm,69.354mm) on Inner 2 And Track (109.1mm,68.815mm)(110.104mm,69.819mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (102.6mm,127.9mm)(108.543mm,133.843mm) on Inner 2 And Track (106.887mm,134.287mm)(186.598mm,134.287mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (105.968mm,134.668mm)(186.756mm,134.668mm) on Inner 2 And Track (106.887mm,134.287mm)(186.598mm,134.287mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (105.968mm,134.668mm)(186.756mm,134.668mm) on Inner 2 And Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (105.968mm,134.668mm)(186.756mm,134.668mm) on Inner 2 And Track (99.6mm,127mm)(106.887mm,134.287mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (106.887mm,134.287mm)(186.598mm,134.287mm) on Inner 2 And Track (108.543mm,133.843mm)(135.4mm,133.843mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (106.887mm,134.287mm)(186.598mm,134.287mm) on Inner 2 And Track (135.4mm,133.843mm)(137.162mm,132.081mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (106.887mm,134.287mm)(186.598mm,134.287mm) on Inner 2 And Track (186.756mm,134.668mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (109.1mm,68.815mm)(110.104mm,69.819mm) on Inner 2 And Track (109.1mm,69.354mm)(109.1mm,95.9mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (109.1mm,68.815mm)(110.104mm,69.819mm) on Inner 2 And Track (110.485mm,68.417mm)(110.485mm,102.067mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (109.5mm,101.162mm)(110.104mm,100.558mm) on Inner 2 And Track (110.485mm,68.417mm)(110.485mm,102.067mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (110.104mm,69.819mm)(110.104mm,100.558mm) on Inner 2 And Track (110.485mm,68.417mm)(110.485mm,102.067mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (110.485mm,68.417mm)(120.4mm,58.502mm) on Inner 2 And Track (111.5mm,67.941mm)(111.5mm,102.8mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (110.485mm,68.417mm)(120.4mm,58.502mm) on Inner 2 And Track (111.5mm,67.941mm)(118.222mm,61.219mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (110.485mm,68.417mm)(120.4mm,58.502mm) on Inner 2 And Track (118.222mm,61.219mm)(119.081mm,61.219mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (127.164mm,131.636mm)(176.164mm,131.636mm) on Inner 2 And Track (135.4mm,133.843mm)(137.162mm,132.081mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (127.164mm,131.636mm)(176.164mm,131.636mm) on Inner 2 And Track (137.162mm,132.081mm)(188.265mm,132.081mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.57mm,104.7mm)(130.719mm,104.551mm) on Inner 2 And Track (131.1mm,100.3mm)(131.1mm,108mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.719mm,100.142mm)(130.719mm,104.551mm) on Inner 2 And Track (131.1mm,100.3mm)(131.1mm,108mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.719mm,100.142mm)(130.719mm,104.551mm) on Inner 2 And Track (131.1mm,100.3mm)(132.3mm,99.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.719mm,100.142mm)(132.161mm,98.7mm) on Inner 2 And Track (131.1mm,100.3mm)(131.1mm,108mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.719mm,100.142mm)(132.161mm,98.7mm) on Inner 2 And Track (131.1mm,100.3mm)(132.3mm,99.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (130.719mm,100.142mm)(132.161mm,98.7mm) on Inner 2 And Track (132.3mm,99.1mm)(145.52mm,99.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (131.1mm,100.3mm)(132.3mm,99.1mm) on Inner 2 And Track (132.161mm,98.7mm)(175.285mm,98.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (132.161mm,98.7mm)(175.285mm,98.7mm) on Inner 2 And Track (132.3mm,99.1mm)(145.52mm,99.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (132.161mm,98.7mm)(175.285mm,98.7mm) on Inner 2 And Track (145.52mm,99.1mm)(153.8mm,107.38mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (132.161mm,98.7mm)(175.285mm,98.7mm) on Inner 2 And Track (160.404mm,83.281mm)(184.946mm,107.823mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (137.162mm,132.081mm)(188.265mm,132.081mm) on Inner 2 And Track (176.164mm,131.636mm)(178.4mm,129.4mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (137.162mm,132.081mm)(188.265mm,132.081mm) on Inner 2 And Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(14.708mm,99.251mm) on Inner 2 And Track (15.089mm,70.404mm)(15.089mm,97.589mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(14.708mm,99.251mm) on Inner 2 And Track (15.089mm,70.404mm)(24.228mm,61.265mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(14.708mm,99.251mm) on Inner 2 And Track (15.089mm,97.589mm)(17.081mm,99.581mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(14.708mm,99.251mm) on Inner 2 And Track (9.9mm,72.061mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(31.3mm,51.2mm) on Inner 2 And Track (22.862mm,57.538mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (14.708mm,67.792mm)(31.3mm,51.2mm) on Inner 2 And Track (9.9mm,72.061mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (160.404mm,83.281mm)(184.946mm,107.823mm) on Inner 2 And Track (175.285mm,98.7mm)(184.502mm,107.917mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (160.404mm,83.281mm)(184.946mm,107.823mm) on Inner 2 And Track (184.502mm,107.917mm)(184.502mm,113.102mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (17.081mm,102.265mm)(18.416mm,103.6mm) on Inner 2 And Track (9.319mm,95.041mm)(18.759mm,104.481mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (17.081mm,99.581mm)(17.081mm,102.265mm) on Inner 2 And Track (9.319mm,95.041mm)(18.759mm,104.481mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (173.4mm,100.9mm)(176.946mm,100.9mm) on Inner 2 And Track (175.285mm,98.7mm)(184.502mm,107.917mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (175.285mm,98.7mm)(184.502mm,107.917mm) on Inner 2 And Track (176.946mm,100.9mm)(178.4mm,102.354mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (175.285mm,98.7mm)(184.502mm,107.917mm) on Inner 2 And Track (178.4mm,102.354mm)(178.4mm,129.4mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (175.285mm,98.7mm)(184.502mm,107.917mm) on Inner 2 And Track (184.946mm,107.823mm)(184.946mm,112.575mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (18.416mm,103.6mm)(21.3mm,103.6mm) on Inner 2 And Track (9.319mm,95.041mm)(18.759mm,104.481mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (18.759mm,104.481mm)(24.081mm,104.481mm) on Inner 2 And Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (184.502mm,107.917mm)(184.502mm,113.102mm) on Inner 2 And Track (184.946mm,107.823mm)(184.946mm,112.575mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (184.502mm,107.917mm)(184.502mm,113.102mm) on Inner 2 And Track (184.946mm,112.575mm)(194.581mm,122.21mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (184.946mm,112.575mm)(194.581mm,122.21mm) on Inner 2 And Track (185.9mm,10.6mm)(185.9mm,112.9mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (184.946mm,112.575mm)(194.581mm,122.21mm) on Inner 2 And Track (185.9mm,112.9mm)(195.238mm,122.238mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (185.9mm,112.9mm)(195.238mm,122.238mm) on Inner 2 And Track (187.157mm,113.618mm)(195.619mm,122.08mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (185.9mm,112.9mm)(195.238mm,122.238mm) on Inner 2 And Track (187.157mm,41.735mm)(187.157mm,113.618mm) on Inner 2 
-   Violation between Clearance Constraint: (0.19mm < 0.2mm) Between Track (185.9mm,112.9mm)(195.238mm,122.238mm) on Inner 2 And Track (194.581mm,122.21mm)(194.581mm,125.765mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (185.9mm,112.9mm)(195.238mm,122.238mm) on Inner 2 And Track (195.619mm,122.08mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 And Track (186.756mm,134.668mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 And Track (188.265mm,132.081mm)(194.581mm,125.765mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 And Track (194.581mm,122.21mm)(194.581mm,125.765mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.598mm,134.287mm)(195.238mm,125.647mm) on Inner 2 And Track (195.619mm,122.08mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.756mm,134.668mm)(195.619mm,125.805mm) on Inner 2 And Track (195.238mm,122.238mm)(195.238mm,125.647mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (186.756mm,134.668mm)(195.619mm,125.805mm) on Inner 2 And Track (196mm,121.922mm)(196mm,136.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (187.157mm,113.618mm)(195.619mm,122.08mm) on Inner 2 And Track (188.919mm,114.841mm)(196mm,121.922mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (187.157mm,113.618mm)(195.619mm,122.08mm) on Inner 2 And Track (188.919mm,34.526mm)(188.919mm,114.841mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (187.157mm,113.618mm)(195.619mm,122.08mm) on Inner 2 And Track (195.238mm,122.238mm)(195.238mm,125.647mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (187.157mm,113.618mm)(195.619mm,122.08mm) on Inner 2 And Track (196mm,121.922mm)(196mm,136.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,114.841mm)(196mm,121.922mm) on Inner 2 And Track (189.3mm,114.684mm)(196.381mm,121.765mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,114.841mm)(196mm,121.922mm) on Inner 2 And Track (189.3mm,37.645mm)(189.3mm,114.684mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,114.841mm)(196mm,121.922mm) on Inner 2 And Track (195.619mm,122.08mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,114.841mm)(196mm,121.922mm) on Inner 2 And Track (196.381mm,121.765mm)(196.381mm,137.319mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,34.526mm)(188.919mm,114.841mm) on Inner 2 And Track (189.3mm,114.684mm)(196.381mm,121.765mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,34.526mm)(188.919mm,114.841mm) on Inner 2 And Track (189.3mm,37.645mm)(189.3mm,114.684mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (188.919mm,34.526mm)(188.919mm,114.841mm) on Inner 2 And Track (189.3mm,37.645mm)(191.8mm,35.145mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (189.3mm,114.684mm)(196.381mm,121.765mm) on Inner 2 And Track (196mm,121.922mm)(196mm,136.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (194.1mm,138.4mm)(196mm,136.5mm) on Inner 2 And Track (196.381mm,121.765mm)(196.381mm,137.319mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (195.238mm,122.238mm)(195.238mm,125.647mm) on Inner 2 And Track (195.619mm,122.08mm)(195.619mm,125.805mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (195.619mm,122.08mm)(195.619mm,125.805mm) on Inner 2 And Track (196mm,121.922mm)(196mm,136.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (196.381mm,121.765mm)(196.381mm,137.319mm) on Inner 2 And Track (196mm,121.922mm)(196mm,136.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.339mm,109.139mm)(27.604mm,109.139mm) on Inner 2 And Track (22.497mm,108.758mm)(27.762mm,108.758mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.339mm,109.139mm)(27.604mm,109.139mm) on Inner 2 And Track (27.762mm,108.758mm)(41.704mm,122.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.339mm,109.139mm)(27.604mm,109.139mm) on Inner 2 And Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.481mm,56.735mm)(22.481mm,58.941mm) on Inner 2 And Track (22.862mm,57.538mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.481mm,56.735mm)(22.481mm,58.941mm) on Inner 2 And Track (22.862mm,57.538mm)(30.4mm,50mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.481mm,56.735mm)(22.481mm,58.941mm) on Inner 2 And Track (9.9mm,72.061mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.167mm < 0.2mm) Between Track (22.497mm,108.758mm)(27.762mm,108.758mm) on Inner 2 And Track (24.081mm,104.481mm)(41.2mm,121.6mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.497mm,108.758mm)(27.762mm,108.758mm) on Inner 2 And Track (27.604mm,109.139mm)(41.565mm,123.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.497mm,108.758mm)(27.762mm,108.758mm) on Inner 2 And Track (8.557mm,95.357mm)(22.339mm,109.139mm) on Inner 2 
-   Violation between Clearance Constraint: (0.199mm < 0.2mm) Between Track (22.849mm,133.21mm)(32.2mm,123.859mm) on Inner 2 And Track (24.6mm,132.1mm)(24.6mm,132.753mm) on Inner 2 
-   Violation between Clearance Constraint: (0.199mm < 0.2mm) Between Track (22.849mm,133.21mm)(32.2mm,123.859mm) on Inner 2 And Track (24.6mm,132.1mm)(28.5mm,128.2mm) on Inner 2 
-   Violation between Clearance Constraint: (0.199mm < 0.2mm) Between Track (22.849mm,133.21mm)(32.2mm,123.859mm) on Inner 2 And Track (28.5mm,128.2mm)(35.1mm,128.2mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (22.862mm,57.538mm)(22.862mm,59.099mm) on Inner 2 And Track (9.3mm,72.122mm)(22.481mm,58.941mm) on Inner 2 
-   Violation between Clearance Constraint: (0.167mm < 0.2mm) Between Track (24.081mm,104.481mm)(41.2mm,121.6mm) on Inner 2 And Track (27.762mm,108.758mm)(41.704mm,122.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.17mm < 0.2mm) Between Track (27.202mm,132.7mm)(41mm,132.7mm) on Inner 2 And Track (40.5mm,131.6mm)(42.991mm,134.091mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (27.604mm,109.139mm)(41.565mm,123.1mm) on Inner 2 And Track (27.762mm,108.758mm)(41.704mm,122.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (27.604mm,109.139mm)(41.565mm,123.1mm) on Inner 2 And Track (41.704mm,122.7mm)(62.454mm,122.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.167mm < 0.2mm) Between Track (27.762mm,108.758mm)(41.704mm,122.7mm) on Inner 2 And Track (41.2mm,121.6mm)(42.1mm,121.6mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (27.762mm,108.758mm)(41.704mm,122.7mm) on Inner 2 And Track (41.565mm,123.1mm)(61.3mm,123.1mm) on Inner 2 
-   Violation between Clearance Constraint: (0.191mm < 0.2mm) Between Track (34.8mm,121mm)(37mm,123.2mm) on Inner 2 And Track (37.445mm,121.655mm)(37.445mm,130.196mm) on Inner 2 
-   Violation between Clearance Constraint: (0.191mm < 0.2mm) Between Track (37.445mm,121.655mm)(37.445mm,130.196mm) on Inner 2 And Track (37mm,123.2mm)(37mm,131.3mm) on Inner 2 
-   Violation between Clearance Constraint: (0.191mm < 0.2mm) Between Track (37.445mm,130.196mm)(38.849mm,131.6mm) on Inner 2 And Track (37mm,123.2mm)(37mm,131.3mm) on Inner 2 
-   Violation between Clearance Constraint: (0.17mm < 0.2mm) Between Track (40.5mm,131.6mm)(42.991mm,134.091mm) on Inner 2 And Track (41mm,132.7mm)(42.8mm,134.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.155mm < 0.2mm) Between Track (40.5mm,131.6mm)(42.991mm,134.091mm) on Inner 2 And Track (42.8mm,134.5mm)(55.7mm,134.5mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (41.565mm,123.1mm)(61.3mm,123.1mm) on Inner 2 And Track (41.704mm,122.7mm)(62.454mm,122.7mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (41.704mm,122.7mm)(62.454mm,122.7mm) on Inner 2 And Track (61.3mm,123.1mm)(65.581mm,127.381mm) on Inner 2 
-   Violation between Clearance Constraint: (0.17mm < 0.2mm) Between Track (41mm,132.7mm)(42.8mm,134.5mm) on Inner 2 And Track (42.991mm,134.091mm)(48.906mm,134.091mm) on Inner 2 
-   Violation between Clearance Constraint: (0.165mm < 0.2mm) Between Track (42.6mm,150mm)(200mm,150mm) on Keep-Out Layer And Track (60.687mm,147.6mm)(62.668mm,149.581mm) on Inner 2 
-   Violation between Clearance Constraint: (0.165mm < 0.2mm) Between Track (42.6mm,150mm)(200mm,150mm) on Keep-Out Layer And Track (62.668mm,149.581mm)(88.219mm,149.581mm) on Inner 2 
-   Violation between Clearance Constraint: (0.165mm < 0.2mm) Between Track (42.6mm,150mm)(200mm,150mm) on Keep-Out Layer And Track (88.219mm,149.581mm)(90.2mm,147.6mm) on Inner 2 
-   Violation between Clearance Constraint: (0.155mm < 0.2mm) Between Track (42.8mm,134.5mm)(55.7mm,134.5mm) on Inner 2 And Track (42.991mm,134.091mm)(48.906mm,134.091mm) on Inner 2 
-   Violation between Clearance Constraint: (0.155mm < 0.2mm) Between Track (42.8mm,134.5mm)(55.7mm,134.5mm) on Inner 2 And Track (48.906mm,134.091mm)(49.497mm,133.5mm) on Inner 2 
    Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (64.574mm,129.431mm)(66.22mm,129.431mm) on Inner 2 And Track (65.99mm,130.2mm)(67.319mm,128.871mm) on Inner 2 
    Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (65.99mm,130.2mm)(67.319mm,128.871mm) on Inner 2 And Track (66.22mm,129.431mm)(66.6mm,129.051mm) on Inner 2 
    Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (65.99mm,130.2mm)(67.319mm,128.871mm) on Inner 2 And Track (66.6mm,126.846mm)(66.6mm,129.051mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.557mm,95.357mm) on Inner 2 And Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.557mm,95.357mm) on Inner 2 And Track (8.938mm,82.997mm)(9.3mm,82.635mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.557mm,95.357mm) on Inner 2 And Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 
-   Violation between Clearance Constraint: (0.195mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.9mm,82.4mm) on Inner 2 And Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 
-   Violation between Clearance Constraint: (0.195mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.9mm,82.4mm) on Inner 2 And Track (8.938mm,82.997mm)(9.3mm,82.635mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (8.557mm,82.743mm)(8.9mm,82.4mm) on Inner 2 And Track (9.3mm,72.122mm)(9.3mm,82.635mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.557mm,95.357mm)(22.339mm,109.139mm) on Inner 2 And Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.557mm,95.357mm)(22.339mm,109.139mm) on Inner 2 And Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 And Track (9.319mm,83.155mm)(9.319mm,95.041mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 And Track (9.319mm,83.155mm)(9.9mm,82.574mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,82.997mm)(8.938mm,95.199mm) on Inner 2 And Track (9.319mm,95.041mm)(18.759mm,104.481mm) on Inner 2 
-   Violation between Clearance Constraint: (0.195mm < 0.2mm) Between Track (8.938mm,82.997mm)(9.3mm,82.635mm) on Inner 2 And Track (8.9mm,68.2mm)(8.9mm,82.4mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,82.997mm)(9.3mm,82.635mm) on Inner 2 And Track (9.319mm,83.155mm)(9.319mm,95.041mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,82.997mm)(9.3mm,82.635mm) on Inner 2 And Track (9.319mm,83.155mm)(9.9mm,82.574mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 And Track (9.319mm,83.155mm)(9.319mm,95.041mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (8.938mm,95.199mm)(22.497mm,108.758mm) on Inner 2 And Track (9.319mm,95.041mm)(18.759mm,104.481mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (8.9mm,68.2mm)(8.9mm,82.4mm) on Inner 2 And Track (9.3mm,72.122mm)(22.481mm,58.941mm) on Inner 2 
-   Violation between Clearance Constraint: (0.146mm < 0.2mm) Between Track (8.9mm,68.2mm)(8.9mm,82.4mm) on Inner 2 And Track (9.3mm,72.122mm)(9.3mm,82.635mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (9.319mm,83.155mm)(9.9mm,82.574mm) on Inner 2 And Track (9.3mm,72.122mm)(9.3mm,82.635mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (9.3mm,72.122mm)(22.481mm,58.941mm) on Inner 2 And Track (9.9mm,72.061mm)(22.862mm,59.099mm) on Inner 2 
-   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (9.3mm,72.122mm)(22.481mm,58.941mm) on Inner 2 And Track (9.9mm,72.061mm)(9.9mm,82.574mm) on Inner 2 
-Rule Violations :132
+Rule Violations :3
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -201,6 +72,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All
 Rule Violations :0
 
 
-Violations Detected : 158
+Violations Detected : 29
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02

@@ -1,0 +1,3 @@
+Added Component: Designator=HS1(201835-Footprint-1)
+Added Pin To Net: NetName=VCC Pin=HS1-1
+Added Member To Class: ClassName=Input Connections Member=Component HS1 201835
