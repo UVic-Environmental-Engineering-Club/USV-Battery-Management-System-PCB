@@ -1,10 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [USV-Power Distribution Board.PrjPcb]
-   Generated File[USV-Power Distribution Board_Legend_Top.gbr]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USV-Power Distribution Board.PrjPcb]
+   Generated File[USV-Power Distribution Board.TXT]
+   Generated File[USV-Power Distribution Board-RectHoles.TXT]
+   Generated File[USV-Power Distribution Board.LDP]
+   Generated File[USV-Power Distribution Board.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 6:09:42 PM On 2022-05-30
+Finished Output Generation At 10:10:39 PM On 2022-05-30
