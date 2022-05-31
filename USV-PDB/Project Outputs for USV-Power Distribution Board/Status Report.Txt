@@ -1,0 +1,10 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [USV-Power Distribution Board.PrjPcb]
+   Generated File[USV-Power Distribution Board_Legend_Top.gbr]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:09:42 PM On 2022-05-30

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
-Date     : 2022-05-21
-Time     : 6:48:05 PM
+Date     : 2022-05-27
+Time     : 5:10:49 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (64.574mm,129.431mm)(66.22mm,129.431mm) on Inner 2 And Track (65.99mm,130.2mm)(67.319mm,128.871mm) on Inner 2 
