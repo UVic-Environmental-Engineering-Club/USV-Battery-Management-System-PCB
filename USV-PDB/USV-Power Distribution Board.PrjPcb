@@ -262,62 +262,70 @@ DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribu
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Keep-out.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Legend_Top.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_1.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_13.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_15.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Pads_Bot.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Pads_Top.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Paste_Top.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Profile.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Soldermask_Top.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_3D_Body.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_Assembly.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_Component_Center.gbr
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for USV-Power Distribution Board\USV-Power Distribution Board_Top_Courtyard.gbr
 DItemRevisionGUID=
 
@@ -667,7 +675,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=EQRHGPJH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16777217~1,16777218~1,16777219~1,16842751~1,16973834~1,16973835~1,16973832~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=USV-Power Distribution Board_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=USV-Power Distribution Board_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=False|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=USV-Power Distribution Board_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=USV-Power Distribution Board_Bottom_3D_Body.gbr|UserLayerName.Caption1=USV-Power Distribution Board_Paste_Top.gbr|UserLayerName.Caption10=USV-Power Distribution Board_Copper_Signal_2.gbr|UserLayerName.Caption11=USV-Power Distribution Board_Copper_Signal_Bot.gbr|UserLayerName.Caption12=USV-Power Distribution Board_Top_Assembly.gbr|UserLayerName.Caption13=USV-Power Distribution Board_Mechanical_15.gbr|UserLayerName.Caption14=USV-Power Distribution Board_Copper_Signal_Top.gbr|UserLayerName.Caption15=USV-Power Distribution Board_Legend_Bot.gbr|UserLayerName.Caption16=USV-Power Distribution Board_Pads_Top.gbr|UserLayerName.Caption17=USV-Power Distribution Board_Mechanical_13.gbr|UserLayerName.Caption18=USV-Power Distribution Board_Bottom_Courtyard.gbr|UserLayerName.Caption19=USV-Power Distribution Board_Mechanical_1.gbr|UserLayerName.Caption2=USV-Power Distribution Board_Legend_Top.gbr|UserLayerName.Caption20=USV-Power Distribution Board_Bottom_Component_Center.gbr|UserLayerName.Caption21=USV-Power Distribution Board_Top_Courtyard.gbr|UserLayerName.Caption22=USV-Power Distribution Board_Bottom_Assembly.gbr|UserLayerName.Caption23=USV-Power Distribution Board_Mechanical_31.gbr|UserLayerName.Caption24=USV-Power Distribution Board_Paste_Bot.gbr|UserLayerName.Caption3=USV-Power Distribution Board_Soldermask_Top.gbr|UserLayerName.Caption4=USV-Power Distribution Board_Pads_Bot.gbr|UserLayerName.Caption5=USV-Power Distribution Board_Top_3D_Body.gbr|UserLayerName.Caption6=USV-Power Distribution Board_Keep-out.gbr|UserLayerName.Caption7=USV-Power Distribution Board_Copper_Signal_1.gbr|UserLayerName.Caption8=USV-Power Distribution Board_Soldermask_Bot.gbr|UserLayerName.Caption9=USV-Power Distribution Board_Top_Component_Center.gbr|UserLayerName.Count=25|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973831|UserLayerName.Layer16=16973848|UserLayerName.Layer17=16908301|UserLayerName.Layer18=16908309|UserLayerName.Layer19=16908289|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908312|UserLayerName.Layer21=16908291|UserLayerName.Layer22=16908308|UserLayerName.Layer23=16908319|UserLayerName.Layer24=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973849|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16777218|UserLayerName.Layer8=16973835|UserLayerName.Layer9=16908304|DocumentPath=C:\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=EQRHGPJH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16777217~1,16777218~1,16777219~1,16842751~1,16973834~1,16973835~1,16973832~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=USV-Power Distribution Board_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=USV-Power Distribution Board_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=USV-Power Distribution Board_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=USV-Power Distribution Board_Bottom_3D_Body.gbr|UserLayerName.Caption1=USV-Power Distribution Board_Paste_Top.gbr|UserLayerName.Caption10=USV-Power Distribution Board_Copper_Signal_2.gbr|UserLayerName.Caption11=USV-Power Distribution Board_Copper_Signal_Bot.gbr|UserLayerName.Caption12=USV-Power Distribution Board_Top_Assembly.gbr|UserLayerName.Caption13=USV-Power Distribution Board_Mechanical_15.gbr|UserLayerName.Caption14=USV-Power Distribution Board_Copper_Signal_Top.gbr|UserLayerName.Caption15=USV-Power Distribution Board_Legend_Bot.gbr|UserLayerName.Caption16=USV-Power Distribution Board_Pads_Top.gbr|UserLayerName.Caption17=USV-Power Distribution Board_Mechanical_13.gbr|UserLayerName.Caption18=USV-Power Distribution Board_Bottom_Courtyard.gbr|UserLayerName.Caption19=USV-Power Distribution Board_Mechanical_1.gbr|UserLayerName.Caption2=USV-Power Distribution Board_Legend_Top.gbr|UserLayerName.Caption20=USV-Power Distribution Board_Bottom_Component_Center.gbr|UserLayerName.Caption21=USV-Power Distribution Board_Top_Courtyard.gbr|UserLayerName.Caption22=USV-Power Distribution Board_Bottom_Assembly.gbr|UserLayerName.Caption23=USV-Power Distribution Board_Mechanical_31.gbr|UserLayerName.Caption24=USV-Power Distribution Board_Keep-out.gbr|UserLayerName.Caption3=USV-Power Distribution Board_Soldermask_Top.gbr|UserLayerName.Caption4=USV-Power Distribution Board_Pads_Bot.gbr|UserLayerName.Caption5=USV-Power Distribution Board_Top_3D_Body.gbr|UserLayerName.Caption6=USV-Power Distribution Board_Paste_Bot.gbr|UserLayerName.Caption7=USV-Power Distribution Board_Copper_Signal_1.gbr|UserLayerName.Caption8=USV-Power Distribution Board_Soldermask_Bot.gbr|UserLayerName.Caption9=USV-Power Distribution Board_Top_Component_Center.gbr|UserLayerName.Count=25|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973831|UserLayerName.Layer16=16973848|UserLayerName.Layer17=16908301|UserLayerName.Layer18=16908309|UserLayerName.Layer19=16908289|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908312|UserLayerName.Layer21=16908291|UserLayerName.Layer22=16908308|UserLayerName.Layer23=16908319|UserLayerName.Layer24=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973849|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973833|UserLayerName.Layer7=16777218|UserLayerName.Layer8=16973835|UserLayerName.Layer9=16908304|DocumentPath=C:\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

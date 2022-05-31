@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
-Date     : 2022-05-27
-Time     : 5:10:49 PM
+Date     : 2022-05-31
+Time     : 12:19:29 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Track (64.574mm,129.431mm)(66.22mm,129.431mm) on Inner 2 And Track (65.99mm,130.2mm)(67.319mm,128.871mm) on Inner 2 
@@ -62,16 +62,12 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :22
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (196.6mm,34mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (196.7mm,41.1mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (21.565mm,128.13mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (58.357mm,134.15mm) from Top Layer to Bottom Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 29
+Violations Detected : 25
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
