@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for USV-Power Distribution Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=1DA68F2B-AAF1-44FC-B1F6-CC789B5228F7
 VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a
@@ -413,7 +413,7 @@ SCH_HasExpandLogicalToPhysicalSheets=0
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for USV-Power Distribution Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -524,7 +524,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2740DW series Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
