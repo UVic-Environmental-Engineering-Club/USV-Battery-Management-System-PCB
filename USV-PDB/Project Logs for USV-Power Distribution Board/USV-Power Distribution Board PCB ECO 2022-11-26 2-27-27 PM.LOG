@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=5V_EN Pin=IC1-6
+Removed Pin From Net: NetName=PG_12V Pin=IC2-2
+Removed Pin From Net: NetName=VDD_12V Pin=IC2-6
+Added Pin To Net: NetName=PG_12V Pin=IC1-2
+Added Pin To Net: NetName=VDD_12V Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=5V_EN Pin=IC2-6
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R36-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=MD1-31
+Added Net: Name=NetIC2_2

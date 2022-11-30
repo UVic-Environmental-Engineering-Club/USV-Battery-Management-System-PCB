@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RPI_EXT_EN Pin=U21-7
+Removed Pin From Net: NetName=CCB_EXT_EN Pin=U21-9
+Added Pin To Net: NetName=CCB_EXT_EN Pin=U21-7
+Added Pin To Net: NetName=RPI_EXT_EN Pin=U21-9

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USB0_N Pin=TP1-1
+Removed Pin From Net: NetName=USB0_P Pin=TP2-1
+Removed Member From Class: ClassName=Master Member=TP1
+Removed Member From Class: ClassName=Master Member=TP2
+Removed Member From Class: ClassName=Master Member=TP3
+Removed Member From Class: ClassName=Master Member=TP4
+Added Pin To Net: NetName=USB0_P Pin=TP1-1
+Added Pin To Net: NetName=USB0_N Pin=TP2-1
+Added Member To Class: ClassName=Microcontroller Member=Component TP1 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP2 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP3 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP4 S2751-46R

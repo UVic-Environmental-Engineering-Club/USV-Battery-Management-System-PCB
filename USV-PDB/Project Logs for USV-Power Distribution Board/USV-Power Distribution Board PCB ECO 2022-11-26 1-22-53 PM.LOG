@@ -1,0 +1,274 @@
+Removed Member From Class: ClassName=Battery and Mounting Member=C16
+Removed Member From Class: ClassName=Battery and Mounting Member=C18
+Removed Member From Class: ClassName=Battery and Mounting Member=C20
+Removed Member From Class: ClassName=Motor Controls Member=C20
+Removed Member From Class: ClassName=Motor Controls Member=C22
+Removed Member From Class: ClassName=Power Supply Member=C72
+Removed Member From Class: ClassName=Microcontroller Member=C86
+Removed Member From Class: ClassName=Microcontroller Member=C88
+Removed Member From Class: ClassName=Microcontroller Member=C92
+Removed Member From Class: ClassName=Microcontroller Member=C95
+Removed Member From Class: ClassName=Microcontroller Member=C99
+Removed Member From Class: ClassName=Microcontroller Member=C100
+Removed Member From Class: ClassName=Microcontroller Member=C101
+Removed Member From Class: ClassName=Microcontroller Member=C102
+Removed Member From Class: ClassName=Microcontroller Member=C103
+Removed Member From Class: ClassName=Microcontroller Member=C104
+Removed Member From Class: ClassName=Microcontroller Member=C106
+Removed Member From Class: ClassName=Power Supply Member=C106
+Removed Member From Class: ClassName=Microcontroller Member=C108
+Removed Member From Class: ClassName=Microcontroller Member=C109
+Removed Member From Class: ClassName=Microcontroller Member=C110
+Removed Member From Class: ClassName=Microcontroller Member=C113
+Removed Member From Class: ClassName=Microcontroller Member=C114
+Removed Member From Class: ClassName=Microcontroller Member=C115
+Removed Member From Class: ClassName=Microcontroller Member=C116
+Removed Member From Class: ClassName=Microcontroller Member=C118
+Removed Member From Class: ClassName=Microcontroller Member=C119
+Removed Member From Class: ClassName=Microcontroller Member=C120
+Removed Member From Class: ClassName=Master Member=D8
+Removed Member From Class: ClassName=Master Member=D10
+Removed Member From Class: ClassName=Master Member=D14
+Removed Member From Class: ClassName=Battery and Mounting Member=D17
+Removed Member From Class: ClassName=Master Member=D17
+Removed Member From Class: ClassName=Master Member=D18
+Removed Member From Class: ClassName=Power Supply Member=D18
+Removed Member From Class: ClassName=Master Member=D20
+Removed Member From Class: ClassName=Power Supply Member=D20
+Removed Member From Class: ClassName=Master Member=D21
+Removed Member From Class: ClassName=Power Supply Member=D21
+Removed Member From Class: ClassName=Power Supply Member=D22
+Removed Member From Class: ClassName=Battery and Mounting Member=R3
+Removed Member From Class: ClassName=Master Member=R7
+Removed Member From Class: ClassName=Master Member=R9
+Removed Member From Class: ClassName=Microcontroller Member=R13
+Removed Member From Class: ClassName=Power Supply Member=R13
+Removed Member From Class: ClassName=Battery and Mounting Member=R15
+Removed Member From Class: ClassName=Master Member=R15
+Removed Member From Class: ClassName=Battery and Mounting Member=R17
+Removed Member From Class: ClassName=Battery and Mounting Member=R19
+Removed Member From Class: ClassName=Microcontroller Member=R19
+Removed Member From Class: ClassName=Motor Controls Member=R21
+Removed Member From Class: ClassName=Motor Controls Member=R23
+Removed Member From Class: ClassName=Battery and Mounting Member=R41
+Removed Member From Class: ClassName=Power Supply Member=R57
+Removed Member From Class: ClassName=Power Supply Member=R59
+Removed Member From Class: ClassName=Power Supply Member=R66
+Removed Member From Class: ClassName=Microcontroller Member=R68
+Removed Member From Class: ClassName=Microcontroller Member=R70
+Removed Member From Class: ClassName=Power Supply Member=R70
+Removed Member From Class: ClassName=Microcontroller Member=R72
+Removed Member From Class: ClassName=Microcontroller Member=R73
+Removed Member From Class: ClassName=Microcontroller Member=R74
+Removed Member From Class: ClassName=Microcontroller Member=R75
+Removed Member From Class: ClassName=Power Supply Member=R75
+Removed Member From Class: ClassName=Microcontroller Member=R76
+Removed Member From Class: ClassName=Microcontroller Member=R77
+Removed Member From Class: ClassName=Microcontroller Member=R78
+Removed Member From Class: ClassName=Microcontroller Member=R79
+Removed Member From Class: ClassName=Power Supply Member=R79
+Removed Member From Class: ClassName=Microcontroller Member=R80
+Removed Member From Class: ClassName=Master Member=TP7
+Removed Member From Class: ClassName=Microcontroller Member=TP9
+Removed Member From Class: ClassName=Microcontroller Member=TP10
+Removed Member From Class: ClassName=Master Member=TP11
+Removed Member From Class: ClassName=Microcontroller Member=TP11
+Removed Member From Class: ClassName=Master Member=TP12
+Removed Member From Class: ClassName=Microcontroller Member=TP12
+Removed Member From Class: ClassName=Master Member=TP13
+Removed Member From Class: ClassName=Microcontroller Member=TP13
+Removed Member From Class: ClassName=Master Member=TP14
+Removed Member From Class: ClassName=Microcontroller Member=TP14
+Removed Member From Class: ClassName=Microcontroller Member=U4
+Removed Member From Class: ClassName=Microcontroller Member=U27
+Removed Member From Class: ClassName=Microcontroller Member=U29
+Removed Member From Class: ClassName=Output Controls Member=U30
+Added Pin To Net: NetName=VDD_7V4 Pin=IC1-3
+Added Pin To Net: NetName=Gate Pin=R7-1
+Added Pin To Net: NetName=Gate Pin=R8-1
+Added Member To Class: ClassName=Battery and Mounting Member=Component C4 470µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C6 220µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C8 47 µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C10 10 µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C11 0.1 µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C12 0.1 µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component C13 1 pF
+Added Member To Class: ClassName=Motor Controls Member=Component C14 10 µF
+Added Member To Class: ClassName=Motor Controls Member=Component C15 10 µF
+Added Member To Class: ClassName=Motor Controls Member=Component C17 10 µF
+Added Member To Class: ClassName=Motor Controls Member=Component C19 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C21 1µF
+Added Member To Class: ClassName=Power Supply Member=Component C23 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C24 4700 pF
+Added Member To Class: ClassName=Power Supply Member=Component C25 100 µF
+Added Member To Class: ClassName=Power Supply Member=Component C26 120 µF
+Added Member To Class: ClassName=Power Supply Member=Component C27 4.7 µF
+Added Member To Class: ClassName=Power Supply Member=Component C28 4.7 µF
+Added Member To Class: ClassName=Power Supply Member=Component C29 100 µF
+Added Member To Class: ClassName=Power Supply Member=Component C31 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C33 6.8 µF
+Added Member To Class: ClassName=Power Supply Member=Component C35 120 µF
+Added Member To Class: ClassName=Power Supply Member=Component C37 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C39 4700pF
+Added Member To Class: ClassName=Power Supply Member=Component C41 0.022 µF
+Added Member To Class: ClassName=Power Supply Member=Component C42 10 µF
+Added Member To Class: ClassName=Power Supply Member=Component C44 6.8 µF
+Added Member To Class: ClassName=Power Supply Member=Component C45 10 µF
+Added Member To Class: ClassName=Power Supply Member=Component C46 2700pF
+Added Member To Class: ClassName=Power Supply Member=Component C47 10 µF
+Added Member To Class: ClassName=Power Supply Member=Component C49 120 µF
+Added Member To Class: ClassName=Power Supply Member=Component C50 120 µF
+Added Member To Class: ClassName=Power Supply Member=Component C51 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C52 0.1 µF
+Added Member To Class: ClassName=Power Supply Member=Component C53 4700pF
+Added Member To Class: ClassName=Power Supply Member=Component C54 220 pF
+Added Member To Class: ClassName=Power Supply Member=Component C55 0.022 µF
+Added Member To Class: ClassName=Power Supply Member=Component C56 10 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C57 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C58 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C59 1 pF
+Added Member To Class: ClassName=Microcontroller Member=Component C60 1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C61 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C62 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C63 1 pF
+Added Member To Class: ClassName=Microcontroller Member=Component C65 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C66 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C67 1 pF
+Added Member To Class: ClassName=Microcontroller Member=Component C68 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C69 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C70 1 pF
+Added Member To Class: ClassName=Microcontroller Member=Component C71 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C73 1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C74 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C75 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C76 1 pF
+Added Member To Class: ClassName=Microcontroller Member=Component C77 4.7µF
+Added Member To Class: ClassName=Microcontroller Member=Component C78 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C79 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C80 1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C81 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C82 1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C83 0.1 µF
+Added Member To Class: ClassName=Output Controls Member=Component C84 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C85 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C87 0.1 µF
+Added Member To Class: ClassName=Output Controls Member=Component C89 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C90 1000 pF
+Added Member To Class: ClassName=Output Controls Member=Component C91 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C93 100 µF
+Added Member To Class: ClassName=Output Controls Member=Component C94 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C96 10 µF
+Added Member To Class: ClassName=Output Controls Member=Component C97 1000 pF
+Added Member To Class: ClassName=Output Controls Member=Component C98 0.1 µF
+Added Member To Class: ClassName=Master Member=Component D1 TPD1E10B06QDPYRQ1
+Added Member To Class: ClassName=Master Member=Component D2 ESD321DPYR
+Added Member To Class: ClassName=Master Member=Component D3 ESD321DPYR
+Added Member To Class: ClassName=Master Member=Component D4 TPD1E10B06QDPYRQ1
+Added Member To Class: ClassName=Master Member=Component D5 ESD321DPYR
+Added Member To Class: ClassName=Master Member=Component D6 ESD321DPYR
+Added Member To Class: ClassName=Master Member=Component D7 TPD1E10B06QDPYRQ1
+Added Member To Class: ClassName=Battery and Mounting Member=Component D9 BZX84W-B68F
+Added Member To Class: ClassName=Power Supply Member=Component D11 SD103AWS-TP
+Added Member To Class: ClassName=Power Supply Member=Component D12 Green
+Added Member To Class: ClassName=Power Supply Member=Component D13 SK56B-LTP
+Added Member To Class: ClassName=Power Supply Member=Component D15 Green
+Added Member To Class: ClassName=Power Supply Member=Component D16 SK56B-LTP
+Added Member To Class: ClassName=Battery and Mounting Member=Component HS1 201835
+Added Member To Class: ClassName=Power Supply Member=Component IC1 2N7002BKS,115
+Added Member To Class: ClassName=Master Member=Component J2 0436500215
+Added Member To Class: ClassName=Master Member=Component J4 1051330001
+Added Member To Class: ClassName=Master Member=Component J8 8 AWG Connector
+Added Member To Class: ClassName=Master Member=Component J9 0436500215
+Added Member To Class: ClassName=Master Member=Component J10 1002-021-01000
+Added Member To Class: ClassName=Master Member=Component J12 1002-021-01000
+Added Member To Class: ClassName=Master Member=Component J13 53375-0210
+Added Member To Class: ClassName=Master Member=Component J14 0436500215
+Added Member To Class: ClassName=Master Member=Component J16 8 AWG Connector
+Added Member To Class: ClassName=Master Member=Component J17 0436500215
+Added Member To Class: ClassName=Master Member=Component J19 0436500215
+Added Member To Class: ClassName=Master Member=Component J22 0436500215
+Added Member To Class: ClassName=Master Member=Component J23 0436500215
+Added Member To Class: ClassName=Master Member=Component R1 0 Ohms
+Added Member To Class: ClassName=Master Member=Component R2 0 Ohms
+Added Member To Class: ClassName=Master Member=Component R4 10 kOhms
+Added Member To Class: ClassName=Battery and Mounting Member=Component R6 10 Ohms
+Added Member To Class: ClassName=Battery and Mounting Member=Component R8 10 kOhms
+Added Member To Class: ClassName=Battery and Mounting Member=Component R10 1 kOhms
+Added Member To Class: ClassName=Battery and Mounting Member=Component R11 0 Ohms
+Added Member To Class: ClassName=Battery and Mounting Member=Component R12 698 kOhms
+Added Member To Class: ClassName=Motor Controls Member=Component R14 750 µOhms
+Added Member To Class: ClassName=Motor Controls Member=Component R16 750 µOhms
+Added Member To Class: ClassName=Power Supply Member=Component R18 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R22 19.6 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R24 100 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R26 0 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R27 10 mOhms
+Added Member To Class: ClassName=Power Supply Member=Component R28 100 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R29 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R30 330 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R31 10.7 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R32 324 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R33 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R34 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R35 75 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R36 330 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R38 0 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R39 10 mOhms
+Added Member To Class: ClassName=Power Supply Member=Component R40 2 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R42 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R43 301 Ohms
+Added Member To Class: ClassName=Power Supply Member=Component R44 18.7 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R45 324 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R46 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R47 10 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R48 75 kOhms
+Added Member To Class: ClassName=Power Supply Member=Component R49 12.1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R50 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R51 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R52 3.3 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R53 3.3 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R54 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R55 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R56 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R58 2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R60 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R61 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R62 10 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R63 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R64 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R65 1 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R67 1 kOhms
+Added Member To Class: ClassName=Master Member=Component TP1 S2751-46R
+Added Member To Class: ClassName=Master Member=Component TP2 S2751-46R
+Added Member To Class: ClassName=Master Member=Component TP3 S2751-46R
+Added Member To Class: ClassName=Master Member=Component TP4 S2751-46R
+Added Member To Class: ClassName=Master Member=Component TP5 1mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP15 1.5mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP17 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP18 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP20 1.5mm Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component TP22 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component TP24 S2751-46R
+Added Member To Class: ClassName=Microcontroller Member=Component U2 OPA2340UA/2K5
+Added Member To Class: ClassName=Motor Controls Member=Component U3 MIC5014YM-TR
+Added Member To Class: ClassName=Motor Controls Member=Component U5 MIC5014YM-TR
+Added Member To Class: ClassName=Power Supply Member=Component U7 MIC261201YJL-TR
+Added Member To Class: ClassName=Power Supply Member=Component U9 LM26003MHX/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U11 LP38513TJ-ADJ/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U13 INA168QPWRQ1
+Added Member To Class: ClassName=Microcontroller Member=Component U14 OPA2340UA/2K5
+Added Member To Class: ClassName=Microcontroller Member=Component U15 OPA2340UA/2K5
+Added Member To Class: ClassName=Microcontroller Member=Component U16 CP2102
+Added Member To Class: ClassName=Microcontroller Member=Component U17 CP2102
+Added Member To Class: ClassName=Output Controls Member=Component U21 PCA9554ADW
+Added Member To Class: ClassName=Output Controls Member=Component U22 AP22615AWU-7
+Added Member To Class: ClassName=Output Controls Member=Component U24 MP5000ADQ-LF-P
+Added Member To Class: ClassName=Output Controls Member=Component U28 AP22615AWU-7
+Added Room: Name=Battery and Mounting
+Added Room: Name=Master
+Added Room: Name=Microcontroller
+Added Room: Name=Motor Controls
+Added Room: Name=Output Controls
+Added Room: Name=Power Supply
+Added Room: Name=Sensors

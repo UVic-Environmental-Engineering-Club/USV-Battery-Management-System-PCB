@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=5V_EN Pin=IC1-6
+Removed Pin From Net: NetName=PG_12V Pin=IC2-2
+Removed Pin From Net: NetName=VDD_12V Pin=IC2-6
+Added Component: Designator=IC21(NXP SOT-363)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://assets.nexperia.com/documents/data-sheet/2N7002BKS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/nexperia-usa-inc/2N7002BKS115/1727-4786-1-ND/2531264"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Feature"; Value = "Logic Level Gate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "2 N-Channel (Dual)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "0.6nC @ 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "50pF @ 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2022-03-07 4:11:33 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "6-TSSOP, SC-88, SOT-363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002BKS,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "295mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "1.6Ohm @ 500mA, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Automotive, AEC-Q101, TrenchMOS™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "6-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-4786-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2.1V @ 250µA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=5V_EN Pin=IC2-6
+Added Pin To Net: NetName=PG_12V Pin=IC21-2
+Added Pin To Net: NetName=VDD_12V Pin=IC21-6
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=MD1-31
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC21_1 Pin=IC21-1
+Added Pin To Net: NetName=NetIC21_1 Pin=R36-2
+Added Net: Name=NetIC21_1
+Added Member To Class: ClassName=Power Supply Member=Component IC21 2N7002BKS,115

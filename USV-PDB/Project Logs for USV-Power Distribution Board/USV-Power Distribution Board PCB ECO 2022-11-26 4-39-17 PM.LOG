@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetR51_2 Pin=U2-1
+Removed Pin From Net: NetName=NetR51_2 Pin=U2-2
+Removed Pin From Net: NetName=NetR56_2 Pin=U14-1
+Removed Pin From Net: NetName=NetR56_2 Pin=U14-2
+Removed Pin From Net: NetName=NetR24_2 Pin=U14-3
+Removed Pin From Net: NetName=NetR63_2 Pin=U15-1
+Removed Pin From Net: NetName=NetR63_2 Pin=U15-2
+Removed Pin From Net: NetName=NetR45_2 Pin=U15-3
+Added Pin To Net: NetName=NetR63_2 Pin=U2-1
+Added Pin To Net: NetName=NetR63_2 Pin=U2-2
+Added Pin To Net: NetName=NetR45_2 Pin=U2-3
+Added Pin To Net: NetName=NetR51_2 Pin=U14-1
+Added Pin To Net: NetName=NetR51_2 Pin=U14-2
+Added Pin To Net: NetName=NetR56_2 Pin=U15-1
+Added Pin To Net: NetName=NetR56_2 Pin=U15-2
+Added Pin To Net: NetName=NetR24_2 Pin=U15-3
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Pin To Net: NetName=NetU4_5 Pin=U14-3
+Added Net: Name=NetU4_5
+Added Member To Class: ClassName=Battery and Mounting Member=Component R12 698 kOhms

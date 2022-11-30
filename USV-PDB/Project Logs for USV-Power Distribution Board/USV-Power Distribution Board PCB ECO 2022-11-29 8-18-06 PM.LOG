@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=+3V3_INT Pin=C78-1
+Removed Pin From Net: NetName=GND Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-2
+Removed Pin From Net: NetName=+5V_EXT_USB1 Pin=C82-2
+Removed Pin From Net: NetName=+5V_EXT_USB1 Pin=C83-2
+Removed Pin From Net: NetName=GND Pin=U17-3
+Removed Pin From Net: NetName=+5V_EXT_USB1 Pin=U17-7
+Removed Pin From Net: NetName=GND Pin=U17-29
+Change Component Footprint: Designator=U16 Old Footprint=QFN28N5X5-0p5P New Footprint=SLAB-QFN-28-3125x3125TP_N
+Change Component Footprint: Designator=U17 Old Footprint=QFN28N5X5-0p5P New Footprint=SLAB-QFN-28-3125x3125TP_N
+Change Component Comment : Designator=U16 Old Comment=CP2102 New Comment=CP2102-GM
+Change Component Comment : Designator=U17 Old Comment=CP2102 New Comment=CP2102-GM
+Change Managed Component Library Link : Designator=U16 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1B71E62E-4B1A-4E3B-A9F7-D13B9A1632C5 New ItemGUID=BDEB42CC-218F-42CB-BEE0-2F374A32E9B8 Old RevisionGUID=aee7f282-9f46-4e8d-b512-bb5433db34b3 New RevisionGUID=74403F10-D6E0-4E91-93F3-AD72849A391E
+Change Managed Component Library Link : Designator=U17 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1B71E62E-4B1A-4E3B-A9F7-D13B9A1632C5 New ItemGUID=BDEB42CC-218F-42CB-BEE0-2F374A32E9B8 Old RevisionGUID=aee7f282-9f46-4e8d-b512-bb5433db34b3 New RevisionGUID=74403F10-D6E0-4E91-93F3-AD72849A391E
+Change component parameters: Designator = "U16" ("U16"); Footprint = "QFN28N5X5-0p5P"; UniqueID = "\QPJQWFPZ\WWWAIHIQ" ("\QPJQWFPZ\WWWAIHIQ")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "J-STD-020C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.silabs.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.silabs.com/Support%20Documents/TechnicalDocs/C8051T61x.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EEPROM"; Value = "1024 Bytes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal Oscillator"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "28-Pin Quad-Flat No-Leads Package, Body 5 x 5 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CP2102-GM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "USB Bridges"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U17" ("U17"); Footprint = "QFN28N5X5-0p5P"; UniqueID = "\QPJQWFPZ\SMMCXUBE" ("\QPJQWFPZ\SMMCXUBE")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "J-STD-020C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.silabs.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.silabs.com/Support%20Documents/TechnicalDocs/C8051T61x.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EEPROM"; Value = "1024 Bytes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal Oscillator"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "28-Pin Quad-Flat No-Leads Package, Body 5 x 5 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CP2102-GM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "USB Bridges"; VariantName = "[No Variations]"
+Added Component: Designator=C124(CAP ALSMD POLY 4.3MM H5.5MM)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/panasonic-electronic-components/EEE-1VA4R7AR/PCE4643CT-ND/1718066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.213" (5.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "2020-09-02 1:23:43 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp."; Value = "2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEE-1VA4R7AR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "7146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "37.4mA @ 10kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "22mA @ 120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.157" Dia (4.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE4643CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount Land Size"; Value = "0.169" L x 0.169" W (4.30mm x 4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=+3V3_INT Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=+3V3_INT Pin=C79-2
+Added Pin To Net: NetName=+3V3_INT Pin=C82-2
+Added Pin To Net: NetName=+3V3_INT Pin=C83-2
+Added Pin To Net: NetName=+3V3_INT Pin=C124-1
+Added Pin To Net: NetName=GND Pin=C124-2
+Added Pin To Net: NetName=+3V3_INT Pin=U17-6
+Added Pin To Net: NetName=+3V3_INT Pin=U17-7
+Added Member To Class: ClassName=Microcontroller Member=Component C124 4.7µF
+Added Member To Class: ClassName=Battery and Mounting Member=Component R12 698 kOhms
