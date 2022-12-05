@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-29
+Added Member To Class: ClassName=Microcontroller Member=Component C77 4.7 µF

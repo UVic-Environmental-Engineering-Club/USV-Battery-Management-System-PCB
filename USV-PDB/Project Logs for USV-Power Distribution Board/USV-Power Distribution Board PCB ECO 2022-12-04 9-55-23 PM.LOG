@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V_EXT_USB0 Pin=R1-1
+Removed Pin From Net: NetName=+5V_EXT_USB1 Pin=R2-2
+Removed Member From Class: ClassName=Master Member=R1
+Removed Member From Class: ClassName=Master Member=R2
+Added Pin To Net: NetName=+5V_EXT_USB0 Pin=J4-1
+Added Pin To Net: NetName=+5V_EXT_USB1 Pin=J10-1
