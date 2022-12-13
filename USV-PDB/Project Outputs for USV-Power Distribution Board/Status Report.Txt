@@ -1,8 +1,8 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : Project [USV-Power Distribution Board.PrjPcb]
-   Generated File[USV-Power Distribution Board.TXT]
-   Generated File[USV-Power Distribution Board-RectHoles.TXT]
+   Generated File[USV-Power Distribution Board-RoundHoles.TXT]
+   Generated File[USV-Power Distribution Board-SlotHoles.TXT]
    Generated File[USV-Power Distribution Board.LDP]
    Generated File[USV-Power Distribution Board.DRR]
 
@@ -10,4 +10,4 @@ From  : Project [USV-Power Distribution Board.PrjPcb]
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 12:46:26 AM On 2022-05-31
+Finished Output Generation At 10:20:22 PM On 2022-12-12

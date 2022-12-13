@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\evanp\Documents\GitHub\USV-Power-Distribution-Board-PCB\USV-PDB\USV-Power Distribution Board.PcbDoc
-Date     : 2022-12-04
-Time     : 10:16:56 PM
+Date     : 2022-12-12
+Time     : 11:03:32 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -21,8 +21,67 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
-Rule Violations :0
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=6.3mm) (All)
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_1(167.599mm,66.369mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_2(168.164mm,65.803mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_3(168.73mm,65.238mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_4(169.296mm,64.672mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_5(167.033mm,65.803mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_6(167.599mm,65.238mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_7(168.164mm,64.672mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-29_8(168.73mm,64.106mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_1(166.28mm,64.626mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_2(166.846mm,64.06mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_3(165.714mm,64.06mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_4(166.28mm,63.495mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_5(165.149mm,63.495mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-30_6(165.714mm,62.929mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-31_1(167.906mm,63mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-31_2(167.341mm,62.434mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.325mm < 0.4mm) Pad U7-31_3(166.775mm,61.868mm) on Multi-Layer Actual Hole Size = 0.325mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (10.875mm,102.7mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (10.875mm,103.8mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (10.875mm,104.9mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (11.975mm,102.7mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (11.975mm,103.8mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (11.975mm,104.9mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (112.795mm,58.381mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (113.503mm,57.674mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (113.503mm,59.088mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.21mm,56.967mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.21mm,58.381mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.21mm,59.795mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.556mm,107.44mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.917mm,56.26mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.917mm,57.674mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (114.917mm,59.088mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.263mm,106.733mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.263mm,108.147mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.624mm,56.967mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.624mm,58.381mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.97mm,106.026mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.97mm,107.44mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (115.97mm,108.854mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (116.331mm,57.674mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (116.677mm,106.733mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (116.677mm,108.147mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (116.677mm,109.561mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (117.385mm,107.44mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (117.385mm,108.854mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (118.092mm,108.147mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (5.375mm,75.4mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (5.375mm,76.5mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (5.375mm,77.6mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (6.475mm,75.4mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (6.475mm,76.5mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (6.475mm,77.6mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (7.575mm,75.4mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (7.575mm,76.5mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (7.575mm,77.6mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (9.775mm,102.7mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (9.775mm,103.8mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.4mm) Via (9.775mm,104.9mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+Rule Violations :59
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -196,6 +255,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All
 Rule Violations :0
 
 
-Violations Detected : 153
+Violations Detected : 212
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
